@@ -1,1348 +1,246 @@
-#EXTM3U
+#EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [FHD]" tvg-logo="http://p6.vc/ARY" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/361.ts
+#EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [FHD][H265]" tvg-logo="http://p6.vc/VDF" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30199.ts
+#EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [HD]" tvg-logo="http://p6.vc/VCQ" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/386.ts
+#EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [SD]" tvg-logo="http://p6.vc/ATY" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/421.ts
 
-#EXTINF:-1,Warner Channel FHD²
-http://pdsrv.io:80/livia1/livia1/97597
-#EXTINF:-1,Warner Channel FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/11525
-#EXTINF:-1,Warner Channel FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/61228
-#EXTINF:-1,Warner Channel HD²
-http://pdsrv.io:80/livia1/livia1/97598
-#EXTINF:-1,Warner Channel HD² Dual
-http://pdsrv.io:80/livia1/livia1/97596
-#EXTINF:-1,Warner Channel HD¹
-http://pdsrv.io:80/livia1/livia1/6072
-#EXTINF:-1,Warner Channel SD²
-http://pdsrv.io:80/livia1/livia1/4307
-#EXTINF:-1,Megapix 4K
-http://pdsrv.io:80/livia1/livia1/97347
-#EXTINF:-1,Megapix FHD²
-http://pdsrv.io:80/livia1/livia1/97348
-#EXTINF:-1,Megapix FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/97003
-#EXTINF:-1,Megapix FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/97004
-#EXTINF:-1,Megapix HD²
-http://pdsrv.io:80/livia1/livia1/97349
-#EXTINF:-1,Megapix HD¹
-http://pdsrv.io:80/livia1/livia1/6101
-#EXTINF:-1,Megapix SD²
-http://pdsrv.io:80/livia1/livia1/97350
-#EXTINF:-1,Megapix SD¹
-http://pdsrv.io:80/livia1/livia1/4354
-
-#EXTINF:-1,Filmes Suspense
-http://pdsrv.io:80/livia1/livia1/111239
-#EXTINF:-1,Pluto TV Filmes Ação
-http://pdsrv.io:80/livia1/livia1/111226
-#EXTINF:-1,Pluto TV Filmes Nacionais
-http://pdsrv.io:80/livia1/livia1/111252
-#EXTINF:-1,Pluto TV Cine Clássicos
-http://pdsrv.io:80/livia1/livia1/111261
-#EXTINF:-1,Pluto TV Cine Comédia
-http://pdsrv.io:80/livia1/livia1/111227
-#EXTINF:-1,Pluto TV Cine Drama
-http://pdsrv.io:80/livia1/livia1/111228
-#EXTINF:-1,Pluto TV Cine Família
-http://pdsrv.io:80/livia1/livia1/111240
-#EXTINF:-1,Pluto TV Cine Romance
-http://pdsrv.io:80/livia1/livia1/111241
-#EXTINF:-1,Pluto TV Cine Sucessos
-http://pdsrv.io:80/livia1/livia1/111225
-#EXTINF:-1,Pluto TV Cine Terror
-http://pdsrv.io:80/livia1/livia1/111229
-#EXTINF:-1,Pluto TV Comédia
-http://pdsrv.io:80/livia1/livia1/111268
-#EXTINF:-1,Pluto TV Documentários
-http://pdsrv.io:80/livia1/livia1/111242
-#EXTINF:-1,Pluto TV Natureza
-http://pdsrv.io:80/livia1/livia1/111234
-#EXTINF:-1,Pluto TV Paisagens por Stingray
-http://pdsrv.io:80/livia1/livia1/111274
-
-#EXTINF:-1,Pluto TV Retrô
-http://pdsrv.io:80/livia1/livia1/111231
-#EXTINF:-1,Pluto TV Shows por Stingray
-http://pdsrv.io:80/livia1/livia1/111276
-#EXTINF:-1,Pluto TV Séries
-http://pdsrv.io:80/livia1/livia1/111230
-#EXTINF:-1,FILM & ARTS FHD²
-http://pdsrv.io:80/livia1/livia1/97599
-#EXTINF:-1,FILM & ARTS FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/60962
-#EXTINF:-1,FILM & ARTS HD²
-http://pdsrv.io:80/livia1/livia1/97600
-#EXTINF:-1,FILM & ARTS HD¹
-http://pdsrv.io:80/livia1/livia1/60963
-#EXTINF:-1,24H Filmes Sessão Da Tarde
-http://pdsrv.io:80/livia1/livia1/60777
-#EXTINF:-1,CINE MARVEL³
-http://pdsrv.io:80/livia1/livia1/60789
-
-#EXTINF:-1,Cinemax  FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/10993
-#EXTINF:-1,Cinemax  FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/61198
-#EXTINF:-1,Cinemax  HD¹
-http://pdsrv.io:80/livia1/livia1/7802
-#EXTINF:-1,Cinemax FHD²
-http://pdsrv.io:80/livia1/livia1/97238
-#EXTINF:-1,Cinemax HD²
-http://pdsrv.io:80/livia1/livia1/97239
-#EXTINF:-1,Cinemax SD²
-http://pdsrv.io:80/livia1/livia1/97240
-#EXTINF:-1,Cinemax SD¹
-http://pdsrv.io:80/livia1/livia1/4393
-#EXTINF:-1,Space FHD²
-http://pdsrv.io:80/livia1/livia1/97327
-#EXTINF:-1,Space FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/33767
-#EXTINF:-1,Space FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/13197
-#EXTINF:-1,Space HD²
-http://pdsrv.io:80/livia1/livia1/97328
-#EXTINF:-1,Space HD¹
-http://pdsrv.io:80/livia1/livia1/6085
-#EXTINF:-1,Space SD²
-http://pdsrv.io:80/livia1/livia1/97329
-#EXTINF:-1,Space SD¹
-http://pdsrv.io:80/livia1/livia1/4328
-#EXTINF:-1,A&E FHD²
-http://pdsrv.io:80/livia1/livia1/97219
-#EXTINF:-1,A&E FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/61196
-#EXTINF:-1,A&E FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/9344
-#EXTINF:-1,A&E HD²
-http://pdsrv.io:80/livia1/livia1/97220
-#EXTINF:-1,A&E HD¹
-http://pdsrv.io:80/livia1/livia1/8139
-#EXTINF:-1,A&E SD²
-http://pdsrv.io:80/livia1/livia1/97221
-#EXTINF:-1,A&E SD¹
-http://pdsrv.io:80/livia1/livia1/4404
-
-#EXTINF:-1,AMC FHD²
-http://pdsrv.io:80/livia1/livia1/97222
-#EXTINF:-1,AMC FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/61194
-#EXTINF:-1,AMC HD²
-http://pdsrv.io:80/livia1/livia1/97223
-#EXTINF:-1,AMC HD¹
-http://pdsrv.io:80/livia1/livia1/7691
-#EXTINF:-1,AMC SD²
-http://pdsrv.io:80/livia1/livia1/97224
-#EXTINF:-1,AMC SD¹
-http://pdsrv.io:80/livia1/livia1/20891
-
-#EXTINF:-1,AXN 4K²
-http://pdsrv.io:80/livia1/livia1/110994
-#EXTINF:-1,AXN FHD²
-http://pdsrv.io:80/livia1/livia1/97225
-#EXTINF:-1,AXN FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/13212
-#EXTINF:-1,AXN FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/61197
-#EXTINF:-1,AXN HD²
-http://pdsrv.io:80/livia1/livia1/97226
-#EXTINF:-1,AXN HD¹
-http://pdsrv.io:80/livia1/livia1/60937
-#EXTINF:-1,AXN SD²
-http://pdsrv.io:80/livia1/livia1/97227
-#EXTINF:-1,AXN SD¹
-http://pdsrv.io:80/livia1/livia1/4402
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://p6.vc/AYH" group-title="Canais | SporTV",SPORTV 2 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/553.ts
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://p6.vc/WHV" group-title="Canais | SporTV",SPORTV 2 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30291.ts
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [HD]" tvg-logo="http://p6.vc/AYK" group-title="Canais | SporTV",SPORTV 2 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/557.ts
+#EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [SD]" tvg-logo="http://p6.vc/AYN" group-title="Canais | SporTV",SPORTV 2 [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/560.ts
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [FHD]" tvg-logo="http://p6.vc/WGW" group-title="Canais | SporTV",SPORTV 3 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/554.ts
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30292.ts
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [HD]" tvg-logo="http://p6.vc/AYL" group-title="Canais | SporTV",SPORTV 3 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/558.ts
+#EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [SD]" tvg-logo="http://p6.vc/AYL" group-title="Canais | SporTV",SPORTV 3 [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/561.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV [4K]" tvg-logo="http://p6.vc/7" group-title="Canais | 4K",SporTV [4K]
+http://cdn33.cc:80/patrickpimentel/topip2010/589.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD]" tvg-logo="http://p6.vc/AYI" group-title="Canais | SporTV",SPORTV [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/555.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD][H265]" tvg-logo="http://p6.vc/WHX" group-title="Canais | SporTV",SPORTV [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30293.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [HD]" tvg-logo="http://p6.vc/AYJ" group-title="Canais | SporTV",SPORTV [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/556.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [SD]" tvg-logo="http://p6.vc/AYM" group-title="Canais | SporTV",SPORTV [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/559.ts
 
 
-#EXTINF:-1,Pluto TV Record News
-http://pdsrv.io:80/livia1/livia1/111285
-#EXTINF:-1,Record TV News SD
-http://pdsrv.io:80/livia1/livia1/129888
-#EXTINF:-1,Record TV News FHD
-http://pdsrv.io:80/livia1/livia1/129890
-
-#EXTINF:-1,Band News FHD²
-http://pdsrv.io:80/livia1/livia1/97601
-#EXTINF:-1,Band News FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/11536
-#EXTINF:-1,Band News HD²
-http://pdsrv.io:80/livia1/livia1/97602
-#EXTINF:-1,Band News HD¹
-http://pdsrv.io:80/livia1/livia1/111213
-#EXTINF:-1,Band News HD¹ DUAL AUDIO
-http://pdsrv.io:80/livia1/livia1/111214
-#EXTINF:-1,Band News SD²
-http://pdsrv.io:80/livia1/livia1/97603
-#EXTINF:-1,Band News SD¹
-http://pdsrv.io:80/livia1/livia1/4399
-
-#EXTINF:-1,Globo News 4K
-http://pdsrv.io:80/livia1/livia1/100335
-#EXTINF:-1,Globo News FHD²
-http://pdsrv.io:80/livia1/livia1/97387
-#EXTINF:-1,Globo News FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/71199
-#EXTINF:-1,Globo News FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/25010
-#EXTINF:-1,Globo News HD²
-http://pdsrv.io:80/livia1/livia1/97388
-#EXTINF:-1,Globo News HD¹
-http://pdsrv.io:80/livia1/livia1/7442
-#EXTINF:-1,Globo News SD²
-http://pdsrv.io:80/livia1/livia1/61138
-#EXTINF:-1,Globo News SD¹
-http://pdsrv.io:80/livia1/livia1/4432
-#EXTINF:-1,Jovem Pan News 4K
-http://pdsrv.io:80/livia1/livia1/100332
-#EXTINF:-1,Jovem Pan News FHD²
-http://pdsrv.io:80/livia1/livia1/110375
-#EXTINF:-1,Jovem Pan News FHD¹
-http://pdsrv.io:80/livia1/livia1/97766
-#EXTINF:-1,Jovem Pan News HD²
-http://pdsrv.io:80/livia1/livia1/97281
-#EXTINF:-1,Jovem Pan News HD¹
-http://pdsrv.io:80/livia1/livia1/97765
-
-#EXTINF:-1,Band  Campinas FHD¹  [H264]
-http://pdsrv.io:80/livia1/livia1/111100
-#EXTINF:-1,Globo EPTV Campinas FHD²
-http://pdsrv.io:80/livia1/livia1/97369
-#EXTINF:-1,Globo EPTV Campinas FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/110949
-#EXTINF:-1,Globo EPTV Campinas HD²
-http://pdsrv.io:80/livia1/livia1/97370
-#EXTINF:-1,Globo EPTV Campinas HD¹
-http://pdsrv.io:80/livia1/livia1/110898
-#EXTINF:-1,Globo EPTV Campinas SD²
-http://pdsrv.io:80/livia1/livia1/97371
-#EXTINF:-1,Globo EPTV Campinas SD¹
-http://pdsrv.io:80/livia1/livia1/110882
-#EXTINF:-1,SBT Int SP HD²
-http://pdsrv.io:80/livia1/livia1/97337
-#EXTINF:-1,Record TV Interior SP FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/129871
-
-#EXTINF:-1,Comedy Central 4K²
-http://pdsrv.io:80/livia1/livia1/110991
-#EXTINF:-1,Comedy Central FHD²
-http://pdsrv.io:80/livia1/livia1/97507
-#EXTINF:-1,Comedy Central HD²
-http://pdsrv.io:80/livia1/livia1/97508
-#EXTINF:-1,Comedy Central Pluto TV
-http://pdsrv.io:80/livia1/livia1/111245
-#EXTINF:-1,Comedy Central SD²
-http://pdsrv.io:80/livia1/livia1/97509
-
-#EXTINF:-1,Multishow 4K
-http://pdsrv.io:80/livia1/livia1/97615
-#EXTINF:-1,Multishow FHD²
-http://pdsrv.io:80/livia1/livia1/97616
-#EXTINF:-1,Multishow FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/96571
-#EXTINF:-1,Multishow FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/96572
-#EXTINF:-1,Multishow HD²
-http://pdsrv.io:80/livia1/livia1/97617
-#EXTINF:-1,Multishow HD¹
-http://pdsrv.io:80/livia1/livia1/96570
-#EXTINF:-1,Multishow SD²
-http://pdsrv.io:80/livia1/livia1/97618
-#EXTINF:-1,Multishow SD¹
-http://pdsrv.io:80/livia1/livia1/96569
-
-#EXTINF:-1,MTV 80'S
-http://pdsrv.io:80/livia1/livia1/100798
-#EXTINF:-1,MTV SD¹
-http://pdsrv.io:80/livia1/livia1/129385
-#EXTINF:-1,MTV SD²
-http://pdsrv.io:80/livia1/livia1/129386
-#EXTINF:-1,MTV HD¹
-http://pdsrv.io:80/livia1/livia1/129387
-#EXTINF:-1,MTV HD²
-http://pdsrv.io:80/livia1/livia1/129388
-#EXTINF:-1,MTV FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/129389
-#EXTINF:-1,MTV FHD²
-http://pdsrv.io:80/livia1/livia1/129390
-#EXTINF:-1,MTV FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/129391
-
-#EXTINF:-1,Cine Sky 01
-http://pdsrv.io:80/livia1/livia1/59966
-#EXTINF:-1,Cine Sky 02
-http://pdsrv.io:80/livia1/livia1/59967
-#EXTINF:-1,Cine Sky 03
-http://pdsrv.io:80/livia1/livia1/59968
-#EXTINF:-1,Cine Sky 04
-http://pdsrv.io:80/livia1/livia1/59969
-#EXTINF:-1,Cine Sky 05
-http://pdsrv.io:80/livia1/livia1/59970
-#EXTINF:-1,Cine Sky 06
-http://pdsrv.io:80/livia1/livia1/122729
-#EXTINF:-1,Cine Sky 07
-http://pdsrv.io:80/livia1/livia1/122730
-#EXTINF:-1,Cine Sky 08
-http://pdsrv.io:80/livia1/livia1/122731
-#EXTINF:-1,Cine Sky 09
-http://pdsrv.io:80/livia1/livia1/122732
-#EXTINF:-1,Cine Sky 10
-http://pdsrv.io:80/livia1/livia1/122733
-
-#EXTINF:-1,HBO 2 FHD H264¹
-http://pdsrv.io:80/livia1/livia1/63297
-#EXTINF:-1,HBO 2 FHD²
-http://pdsrv.io:80/livia1/livia1/61204
-#EXTINF:-1,HBO 2 FHD¹ H265
-http://pdsrv.io:80/livia1/livia1/11567
-#EXTINF:-1,HBO 2 HD²
-http://pdsrv.io:80/livia1/livia1/60976
-#EXTINF:-1,HBO 2 HD¹
-http://pdsrv.io:80/livia1/livia1/6110
-#EXTINF:-1,HBO 2 SD²
-http://pdsrv.io:80/livia1/livia1/60975
-#EXTINF:-1,HBO 2 SD¹
-http://pdsrv.io:80/livia1/livia1/4365
-#EXTINF:-1,HBO 4K
-http://pdsrv.io:80/livia1/livia1/100333
-#EXTINF:-1,HBO Xtreme HD²
-http://pdsrv.io:80/livia1/livia1/60986
-#EXTINF:-1,HBO Family FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/63299
-#EXTINF:-1,HBO Family FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/11568
-#EXTINF:-1,HBO Family FHD²
-http://pdsrv.io:80/livia1/livia1/61205
-#EXTINF:-1,HBO Family HD²
-http://pdsrv.io:80/livia1/livia1/60978
-#EXTINF:-1,HBO Family HD¹
-http://pdsrv.io:80/livia1/livia1/6109
-#EXTINF:-1,HBO Family SD²
-http://pdsrv.io:80/livia1/livia1/60977
-#EXTINF:-1,HBO Family SD¹
-http://pdsrv.io:80/livia1/livia1/4364
-#EXTINF:-1,HBO FHD²
-http://pdsrv.io:80/livia1/livia1/61206
-#EXTINF:-1,HBO FHD¹
-http://pdsrv.io:80/livia1/livia1/11566
-#EXTINF:-1,HBO HD²
-http://pdsrv.io:80/livia1/livia1/60974
-#EXTINF:-1,HBO HD¹
-http://pdsrv.io:80/livia1/livia1/6108
-#EXTINF:-1,HBO Max 1
-http://pdsrv.io:80/livia1/livia1/97351
-#EXTINF:-1,HBO Max 2
-http://pdsrv.io:80/livia1/livia1/97352
-#EXTINF:-1,HBO Max 3
-http://pdsrv.io:80/livia1/livia1/97353
-#EXTINF:-1,HBO Max 4
-http://pdsrv.io:80/livia1/livia1/97354
-#EXTINF:-1,HBO Mundi FHD²
-http://pdsrv.io:80/livia1/livia1/97125
-#EXTINF:-1,HBO Mundi FHD¹ H264
-http://pdsrv.io:80/livia1/livia1/60984
-#EXTINF:-1,HBO MundiI FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/63301
-#EXTINF:-1,HBO Mundi HD²
-http://pdsrv.io:80/livia1/livia1/97124
-#EXTINF:-1,HBO Mundi HD¹
-http://pdsrv.io:80/livia1/livia1/10266
-#EXTINF:-1,HBO Mundi SD²
-http://pdsrv.io:80/livia1/livia1/97123
-#EXTINF:-1,HBO Mundi SD¹
-http://pdsrv.io:80/livia1/livia1/4358
-#EXTINF:-1,HBO Plus FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/63298
-#EXTINF:-1,HBO Plus FHD²
-http://pdsrv.io:80/livia1/livia1/61207
-#EXTINF:-1,HBO Plus FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/13190
-#EXTINF:-1,HBO Plus HD²
-http://pdsrv.io:80/livia1/livia1/60979
-#EXTINF:-1,HBO Plus HD¹
-http://pdsrv.io:80/livia1/livia1/6106
-#EXTINF:-1,HBO Plus SD²
-http://pdsrv.io:80/livia1/livia1/97119
-#EXTINF:-1,HBO Plus SD¹
-http://pdsrv.io:80/livia1/livia1/4363
-#EXTINF:-1,HBO Pop FHD²
-http://pdsrv.io:80/livia1/livia1/97122
-#EXTINF:-1,HBO Pop FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/60988
-#EXTINF:-1,HBO Pop FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/25015
-#EXTINF:-1,HBO Pop HD²
-http://pdsrv.io:80/livia1/livia1/97121
-#EXTINF:-1,HBO Pop HD¹
-http://pdsrv.io:80/livia1/livia1/10265
-#EXTINF:-1,HBO Pop SD²
-http://pdsrv.io:80/livia1/livia1/97120
-#EXTINF:-1,HBO SD²
-http://pdsrv.io:80/livia1/livia1/60973
-#EXTINF:-1,HBO SD¹
-http://pdsrv.io:80/livia1/livia1/4366
-#EXTINF:-1,HBO Signature FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/63300
-#EXTINF:-1,HBO Signature FHD²
-http://pdsrv.io:80/livia1/livia1/61208
-#EXTINF:-1,HBO Signature FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/11570
-#EXTINF:-1,HBO Signature HD²
-http://pdsrv.io:80/livia1/livia1/60982
-#EXTINF:-1,HBO Signature HD¹
-http://pdsrv.io:80/livia1/livia1/6105
-#EXTINF:-1,HBO Signature SD²
-http://pdsrv.io:80/livia1/livia1/60981
-#EXTINF:-1,HBO Signature SD¹
-http://pdsrv.io:80/livia1/livia1/4361
-#EXTINF:-1,HBO Xtreme FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/63302
-#EXTINF:-1,HBO Xtreme FHD²
-http://pdsrv.io:80/livia1/livia1/61210
-#EXTINF:-1,HBO Xtreme FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/25014
-#EXTINF:-1,HBO Xtreme HD²
-http://pdsrv.io:80/livia1/livia1/62851
-#EXTINF:-1,HBO Xtreme HD¹
-http://pdsrv.io:80/livia1/livia1/4357
-#EXTINF:-1,HBO Xtreme HD¹
-http://pdsrv.io:80/livia1/livia1/7850
-#EXTINF:-1,HBO Xtreme SD²
-http://pdsrv.io:80/livia1/livia1/62850
-
-#EXTINF:-1,Telecine  Action DUAL HD²
-http://pdsrv.io:80/livia1/livia1/97299
-#EXTINF:-1,Telecine  Action FHD²
-http://pdsrv.io:80/livia1/livia1/97300
-#EXTINF:-1,Telecine Action 4K
-http://pdsrv.io:80/livia1/livia1/100328
-#EXTINF:-1,Telecine Action FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/8141
-#EXTINF:-1,Telecine Action FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/63291
-#EXTINF:-1,Telecine Action HD²
-http://pdsrv.io:80/livia1/livia1/97301
-#EXTINF:-1,Telecine Action HD¹
-http://pdsrv.io:80/livia1/livia1/6080
-#EXTINF:-1,Telecine Action SD²
-http://pdsrv.io:80/livia1/livia1/97302
-#EXTINF:-1,Telecine Action SD¹
-http://pdsrv.io:80/livia1/livia1/4320
-#EXTINF:-1,Telecine Cult DUAL FHD²
-http://pdsrv.io:80/livia1/livia1/97303
-#EXTINF:-1,Telecine Cult DUAL HD²
-http://pdsrv.io:80/livia1/livia1/97304
-#EXTINF:-1,Telecine Cult FHD²
-http://pdsrv.io:80/livia1/livia1/97305
-#EXTINF:-1,Telecine Cult FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/63295
-#EXTINF:-1,Telecine Cult FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/8143
-#EXTINF:-1,Telecine Cult HD²
-http://pdsrv.io:80/livia1/livia1/97306
-#EXTINF:-1,Telecine Cult HD¹
-http://pdsrv.io:80/livia1/livia1/10247
-#EXTINF:-1,Telecine Cult SD²
-http://pdsrv.io:80/livia1/livia1/97307
-#EXTINF:-1,Telecine Cult SD¹
-http://pdsrv.io:80/livia1/livia1/4319
-#EXTINF:-1,Telecine Fun FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/63294
-#EXTINF:-1,Telecine Fun FHD²
-http://pdsrv.io:80/livia1/livia1/97310
-#EXTINF:-1,Telecine Fun FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/11561
-#EXTINF:-1,Telecine Fun HD²
-http://pdsrv.io:80/livia1/livia1/97311
-#EXTINF:-1,Telecine Fun HD¹
-http://pdsrv.io:80/livia1/livia1/6079
-#EXTINF:-1,Telecine Fun SD²
-http://pdsrv.io:80/livia1/livia1/97312
-#EXTINF:-1,Telecine Fun SD¹ 
-http://pdsrv.io:80/livia1/livia1/4318
-#EXTINF:-1,Telecine Pipoca 4K
-http://pdsrv.io:80/livia1/livia1/100329
-#EXTINF:-1,Telecine Pipoca DUAL FHD²
-http://pdsrv.io:80/livia1/livia1/100573
-#EXTINF:-1,Telecine Pipoca DUAL HD²
-http://pdsrv.io:80/livia1/livia1/100572
-#EXTINF:-1,Telecine Pipoca FHD²
-http://pdsrv.io:80/livia1/livia1/100570
-#EXTINF:-1,Telecine Pipoca FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/100571
-#EXTINF:-1,Telecine Pipoca HD²
-http://pdsrv.io:80/livia1/livia1/100569
-#EXTINF:-1,Telecine Pipoca HD¹
-http://pdsrv.io:80/livia1/livia1/100568
-#EXTINF:-1,Telecine Pipoca SD² 
-http://pdsrv.io:80/livia1/livia1/100567
-#EXTINF:-1,Telecine Pipoca SD¹
-http://pdsrv.io:80/livia1/livia1/100566
-#EXTINF:-1,Telecine Premium 4K
-http://pdsrv.io:80/livia1/livia1/97588
-#EXTINF:-1,Telecine Premium DUAL FHD²
-http://pdsrv.io:80/livia1/livia1/97318
-#EXTINF:-1,Telecine Premium DUAL HD²
-http://pdsrv.io:80/livia1/livia1/97319
-#EXTINF:-1,Telecine Premium FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/63290
-#EXTINF:-1,Telecine Premium FHD²
-http://pdsrv.io:80/livia1/livia1/97320
-#EXTINF:-1,Telecine Premium FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/8140
-#EXTINF:-1,Telecine Premium HD²
-http://pdsrv.io:80/livia1/livia1/97321
-#EXTINF:-1,Telecine Premium HD¹
-http://pdsrv.io:80/livia1/livia1/6077
-#EXTINF:-1,Telecine Premium SD²
-http://pdsrv.io:80/livia1/livia1/97322
-#EXTINF:-1,Telecine Premium SD¹
-http://pdsrv.io:80/livia1/livia1/4316
-#EXTINF:-1,Telecine Touch DUAL FHD²
-http://pdsrv.io:80/livia1/livia1/100581
-#EXTINF:-1,Telecine Touch FHD²
-http://pdsrv.io:80/livia1/livia1/100579
-#EXTINF:-1,Telecine Touch FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/100578
-#EXTINF:-1,Telecine Touch FHD¹ {H265}
-http://pdsrv.io:80/livia1/livia1/100580
-#EXTINF:-1,Telecine Touch HD²
-http://pdsrv.io:80/livia1/livia1/100577
-#EXTINF:-1,Telecine Touch HD¹
-http://pdsrv.io:80/livia1/livia1/100576
-#EXTINF:-1,Telecine Touch SD²
-http://pdsrv.io:80/livia1/livia1/100575
-#EXTINF:-1,Telecine Touch SD¹
-http://pdsrv.io:80/livia1/livia1/100574
-
-#EXTINF:-1,Paramount Channel FHD
-http://pdsrv.io:80/livia1/livia1/126051
-#EXTINF:-1,Paramount Channel HD
-http://pdsrv.io:80/livia1/livia1/126052
-#EXTINF:-1,Paramount Channel SD²
-http://pdsrv.io:80/livia1/livia1/126053
-
-#EXTINF:-1,Paramount+ 1¹
-http://pdsrv.io:80/livia1/livia1/131198
-#EXTINF:-1,Paramount+ 1²
-http://pdsrv.io:80/livia1/livia1/131199
-#EXTINF:-1,Paramount+ 2¹
-http://pdsrv.io:80/livia1/livia1/131200
-#EXTINF:-1,Paramount+ 2²
-http://pdsrv.io:80/livia1/livia1/131201
-#EXTINF:-1,Paramount+ 3¹
-http://pdsrv.io:80/livia1/livia1/131202
-#EXTINF:-1,Paramount+ 3²
-http://pdsrv.io:80/livia1/livia1/131203
-#EXTINF:-1,Paramount+ 4¹
-http://pdsrv.io:80/livia1/livia1/131204
-#EXTINF:-1,Paramount+ 4²
-http://pdsrv.io:80/livia1/livia1/131205
-#EXTINF:-1,PRIME BOX BRAZIL HD²
-http://pdsrv.io:80/livia1/livia1/62826
-#EXTINF:-1,Prime Video | Copa do Brasil 01
-http://pdsrv.io:80/livia1/livia1/131192
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD][HDR]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD][HDR]
+http://cdn33.cc:80/patrickpimentel/topip2010/233619.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/233620.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/233621.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [HD]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/233622.ts
 
 
 
-#EXTINF:-1,STAR+ 1 HD
-http://pdsrv.io:80/livia1/livia1/100842
-#EXTINF:-1,STAR + 2 HD
-http://pdsrv.io:80/livia1/livia1/97099
-#EXTINF:-1,STAR+ 3 HD
-http://pdsrv.io:80/livia1/livia1/97098
-#EXTINF:-1,STAR+ 4 HD
-http://pdsrv.io:80/livia1/livia1/100031
-#EXTINF:-1,STAR+ 5 HD
-http://pdsrv.io:80/livia1/livia1/100843
-#EXTINF:-1,STAR+ 6 HD
-http://pdsrv.io:80/livia1/livia1/100032
-#EXTINF:-1,STAR+ 7 HD
-http://pdsrv.io:80/livia1/livia1/100033
 
-#EXTINF:-1,Star Channel 4K
-http://pdsrv.io:80/livia1/livia1/97571
-#EXTINF:-1,Star Channel DUAL HD²
-http://pdsrv.io:80/livia1/livia1/97572
-#EXTINF:-1,Star Channel FHD²
-http://pdsrv.io:80/livia1/livia1/97573
-#EXTINF:-1,Star Channel FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/61199
-#EXTINF:-1,Star Channel FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/9141
-#EXTINF:-1,Star Channel HD²
-http://pdsrv.io:80/livia1/livia1/97574
-#EXTINF:-1,Star Channel HD¹
-http://pdsrv.io:80/livia1/livia1/6122
-#EXTINF:-1,Star Channel SD²
-http://pdsrv.io:80/livia1/livia1/97584
-#EXTINF:-1,Star Channel SD¹
-http://pdsrv.io:80/livia1/livia1/4375
-#EXTINF:-1,Star Life FHD²
-http://pdsrv.io:80/livia1/livia1/97581
-#EXTINF:-1,Star Life HD²
-http://pdsrv.io:80/livia1/livia1/97582
-#EXTINF:-1,Star Life HD¹
-http://pdsrv.io:80/livia1/livia1/6876
-#EXTINF:-1,Star Life SD²
-http://pdsrv.io:80/livia1/livia1/97583
-#EXTINF:-1,Star Life SD¹
-http://pdsrv.io:80/livia1/livia1/61164
-
-
-#EXTINF:-1,Premiere Clubes 4K
-http://pdsrv.io:80/livia1/livia1/97215
-#EXTINF:-1,Premiere Clubes SD¹
-http://pdsrv.io:80/livia1/livia1/132066
-#EXTINF:-1,Premiere Clubes SD²
-http://pdsrv.io:80/livia1/livia1/132067
-#EXTINF:-1,Premiere Clubes HD¹
-http://pdsrv.io:80/livia1/livia1/132068
-#EXTINF:-1,Premiere Clubes HD²
-http://pdsrv.io:80/livia1/livia1/132069
-#EXTINF:-1,Premiere Clubes FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/132070
-#EXTINF:-1,Premiere Clubes FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/132071
-#EXTINF:-1,Premiere Clubes FHD²
-http://pdsrv.io:80/livia1/livia1/132072
-#EXTINF:-1,Premiere 2 SD¹
-http://pdsrv.io:80/livia1/livia1/132073
-#EXTINF:-1,Premiere 2 SD²
-http://pdsrv.io:80/livia1/livia1/132074
-#EXTINF:-1,Premiere 2 HD¹
-http://pdsrv.io:80/livia1/livia1/132075
-#EXTINF:-1,Premiere 2 HD²
-http://pdsrv.io:80/livia1/livia1/132076
-#EXTINF:-1,Premiere 2 FHD¹
-http://pdsrv.io:80/livia1/livia1/132077
-#EXTINF:-1,Premiere 2 FHD²
-http://pdsrv.io:80/livia1/livia1/132078
-#EXTINF:-1,Premiere 3 SD¹
-http://pdsrv.io:80/livia1/livia1/132079
-#EXTINF:-1,Premiere 3 SD²
-http://pdsrv.io:80/livia1/livia1/132080
-#EXTINF:-1,Premiere 3 HD¹
-http://pdsrv.io:80/livia1/livia1/132081
-#EXTINF:-1,Premiere 3 FHD¹
-http://pdsrv.io:80/livia1/livia1/132083
-#EXTINF:-1,Premiere 3 FHD²
-http://pdsrv.io:80/livia1/livia1/132084
-#EXTINF:-1,Premiere 4 SD¹
-http://pdsrv.io:80/livia1/livia1/132085
-#EXTINF:-1,Premiere 4 HD¹
-http://pdsrv.io:80/livia1/livia1/132087
-#EXTINF:-1,Premiere 4 HD²
-http://pdsrv.io:80/livia1/livia1/132088
-#EXTINF:-1,Premiere 4 FHD¹
-http://pdsrv.io:80/livia1/livia1/132089
-#EXTINF:-1,Premiere 4 FHD²
-http://pdsrv.io:80/livia1/livia1/132090
-#EXTINF:-1,Mosaico Jogos
-http://pdsrv.io:80/livia1/livia1/129345
-#EXTINF:-1,Premiere 5 SD¹
-http://pdsrv.io:80/livia1/livia1/132092
-#EXTINF:-1,Premiere 5 HD¹
-http://pdsrv.io:80/livia1/livia1/132094
-#EXTINF:-1,Premiere 5 HD²
-http://pdsrv.io:80/livia1/livia1/132095
-#EXTINF:-1,Premiere 5 FHD¹
-http://pdsrv.io:80/livia1/livia1/132096
-#EXTINF:-1,Premiere 5 FHD²
-http://pdsrv.io:80/livia1/livia1/132097
-#EXTINF:-1,Premiere 6 SD¹
-http://pdsrv.io:80/livia1/livia1/132098
-#EXTINF:-1,Premiere 6 FHD¹
-http://pdsrv.io:80/livia1/livia1/132101
-#EXTINF:-1,Premiere 6 FHD²
-http://pdsrv.io:80/livia1/livia1/132102
-#EXTINF:-1,Premiere 7 SD¹
-http://pdsrv.io:80/livia1/livia1/132103
-#EXTINF:-1,Premiere 7 HD¹
-http://pdsrv.io:80/livia1/livia1/132105
-#EXTINF:-1,Premiere 7 FHD¹
-http://pdsrv.io:80/livia1/livia1/132107
-#EXTINF:-1,premiere 7 FHD²
-http://pdsrv.io:80/livia1/livia1/132108
-
-#EXTINF:-1,Premiere Mosaico
-http://pdsrv.io:80/livia1/livia1/132110
-#EXTINF:-1,Premiere 8 SD¹
-http://pdsrv.io:80/livia1/livia1/132109
-
-#EXTINF:-1,Champions League HBO MAX 04
-http://pdsrv.io:80/livia1/livia1/144202
-#EXTINF:-1,Champions League HBO MAX 03
-http://pdsrv.io:80/livia1/livia1/144203
-#EXTINF:-1,Premiere Mosaico Multi-Telas
-http://pdsrv.io:80/livia1/livia1/144324
-
-#EXTINF:-1,Brasileirão Série D 01
-http://pdsrv.io:80/livia1/livia1/131756
-
-#EXTINF:-1,SPORTV 4K 
-http://pdsrv.io:80/livia1/livia1/100330
-#EXTINF:-1,SPORTV FHD²
-http://pdsrv.io:80/livia1/livia1/100189
-#EXTINF:-1,SPORTV FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100188
-#EXTINF:-1,SPORTV FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100190
-#EXTINF:-1,SPORTV HD²
-http://pdsrv.io:80/livia1/livia1/100187
-#EXTINF:-1,SPORTV HD¹
-http://pdsrv.io:80/livia1/livia1/100185
-#EXTINF:-1,SPORTV SD²
-http://pdsrv.io:80/livia1/livia1/100184
-#EXTINF:-1,SPORTV SD¹
-http://pdsrv.io:80/livia1/livia1/100183
-#EXTINF:-1,SPORTV 2 FHD²
-http://pdsrv.io:80/livia1/livia1/100214
-#EXTINF:-1,SPORTV 2 FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100213
-#EXTINF:-1,SPORTV 2 FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100215
-#EXTINF:-1,SPORTV 2 HD²
-http://pdsrv.io:80/livia1/livia1/100212
-#EXTINF:-1,SPORTV 2 HD¹
-http://pdsrv.io:80/livia1/livia1/100211
-#EXTINF:-1,SPORTV 2 SD²
-http://pdsrv.io:80/livia1/livia1/100210
-#EXTINF:-1,SPORTV 2 SD¹
-http://pdsrv.io:80/livia1/livia1/100209
-#EXTINF:-1,SPORTV 3 FHD²
-http://pdsrv.io:80/livia1/livia1/100221
-#EXTINF:-1,SPORTV 3 FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100220
-#EXTINF:-1,SPORTV 3 FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100222
-#EXTINF:-1,SPORTV 3 HD²
-http://pdsrv.io:80/livia1/livia1/100219
-#EXTINF:-1,SPORTV 3 HD¹
-http://pdsrv.io:80/livia1/livia1/100218
-#EXTINF:-1,SPORTV 3 SD²
-http://pdsrv.io:80/livia1/livia1/100217
-#EXTINF:-1,SPORTV 3 SD¹
-http://pdsrv.io:80/livia1/livia1/100216
-#EXTINF:-1,ESPN FHD²
-http://pdsrv.io:80/livia1/livia1/100145
-#EXTINF:-1,ESPN FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/113288
-#EXTINF:-1,ESPN FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/113289
-#EXTINF:-1,ESPN HD²
-http://pdsrv.io:80/livia1/livia1/100143
-#EXTINF:-1,ESPN HD¹
-http://pdsrv.io:80/livia1/livia1/100107
-#EXTINF:-1,ESPN HD¹ DUAL AUDIO
-http://pdsrv.io:80/livia1/livia1/113287
-#EXTINF:-1,ESPN SD²
-http://pdsrv.io:80/livia1/livia1/100106
-#EXTINF:-1,ESPN SD¹
-http://pdsrv.io:80/livia1/livia1/100105
-
-#EXTINF:-1,ESPN 2  FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100104
-#EXTINF:-1,ESPN 2  SD¹
-http://pdsrv.io:80/livia1/livia1/100098
-#EXTINF:-1,ESPN 2 FHD²
-http://pdsrv.io:80/livia1/livia1/100103
-#EXTINF:-1,ESPN 2 FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100102
-#EXTINF:-1,ESPN 2 HD²
-http://pdsrv.io:80/livia1/livia1/100101
-#EXTINF:-1,ESPN 2 HD¹
-http://pdsrv.io:80/livia1/livia1/113290
-#EXTINF:-1,ESPN 2 SD²
-http://pdsrv.io:80/livia1/livia1/100099
-#EXTINF:-1,ESPN 3 FHD²
-http://pdsrv.io:80/livia1/livia1/100152
-#EXTINF:-1,ESPN 3 FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100151
-#EXTINF:-1,ESPN 3 FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100153
-#EXTINF:-1,ESPN 3 HD²
-http://pdsrv.io:80/livia1/livia1/100150
-#EXTINF:-1,ESPN 3 HD¹
-http://pdsrv.io:80/livia1/livia1/100149
-#EXTINF:-1,ESPN 3 SD²
-http://pdsrv.io:80/livia1/livia1/100148
-#EXTINF:-1,ESPN 3 SD¹
-http://pdsrv.io:80/livia1/livia1/100147
-#EXTINF:-1,ESPN 4  4K
-http://pdsrv.io:80/livia1/livia1/97492
-#EXTINF:-1,ESPN 4 FHD²
-http://pdsrv.io:80/livia1/livia1/100165
-#EXTINF:-1,ESPN 4 FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100164
-#EXTINF:-1,ESPN 4 FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100166
-#EXTINF:-1,ESPN 4 HD²
-http://pdsrv.io:80/livia1/livia1/100163
-#EXTINF:-1,ESPN 4 HD¹
-http://pdsrv.io:80/livia1/livia1/100162
-#EXTINF:-1,ESPN 4 SD²
-http://pdsrv.io:80/livia1/livia1/100161
-#EXTINF:-1,ESPN 4 SD¹
-http://pdsrv.io:80/livia1/livia1/100160
-#EXTINF:-1,ESPN 4K
-http://pdsrv.io:80/livia1/livia1/100336
-#EXTINF:-1,ESPN Extra FHD²
-http://pdsrv.io:80/livia1/livia1/100158
-#EXTINF:-1,ESPN Extra FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100157
-#EXTINF:-1,ESPN Extra FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100159
-#EXTINF:-1,ESPN Extra HD²
-http://pdsrv.io:80/livia1/livia1/100156
-#EXTINF:-1,ESPN Extra HD¹
-http://pdsrv.io:80/livia1/livia1/100155
-#EXTINF:-1,ESPN Extra SD²
-http://pdsrv.io:80/livia1/livia1/100154
-#EXTINF:-1,ESPN Extra SD¹
-http://pdsrv.io:80/livia1/livia1/117931
-
-#EXTINF:-1,DAZN 01 HD
-http://pdsrv.io:80/livia1/livia1/123992
-#EXTINF:-1,DAZN 02 HD
-http://pdsrv.io:80/livia1/livia1/123993
-#EXTINF:-1,DAZN 03 HD
-http://pdsrv.io:80/livia1/livia1/123994
-#EXTINF:-1,DAZN 04 HD
-http://pdsrv.io:80/livia1/livia1/123995
-#EXTINF:-1,DAZN 05 HD
-http://pdsrv.io:80/livia1/livia1/123996
-#EXTINF:-1,DAZN 1 HD²
-http://pdsrv.io:80/livia1/livia1/98327
-#EXTINF:-1,DAZN 2 HD²
-http://pdsrv.io:80/livia1/livia1/98328
-#EXTINF:-1,DAZN 3 HD²
-http://pdsrv.io:80/livia1/livia1/98329
-#EXTINF:-1,DAZN HD¹ 1
-http://pdsrv.io:80/livia1/livia1/94393
-#EXTINF:-1,DAZN HD¹ 2
-http://pdsrv.io:80/livia1/livia1/33638
-#EXTINF:-1,DAZN HD¹ 3
-http://pdsrv.io:80/livia1/livia1/33639
-#EXTINF:-1,DAZN HD¹ 4
-http://pdsrv.io:80/livia1/livia1/33640
-#EXTINF:-1,DAZN Women's Football
-http://pdsrv.io:80/livia1/livia1/163825
-#EXTINF:-1,DAZN Combat
-http://pdsrv.io:80/livia1/livia1/163828
-#EXTINF:-1,DAZN Rise
-http://pdsrv.io:80/livia1/livia1/163833
-#EXTINF:-1,DAZN Fast
-http://pdsrv.io:80/livia1/livia1/163834
-
-#EXTINF:-1,Champions League HBO MAX 01
-http://pdsrv.io:80/livia1/livia1/117978
-#EXTINF:-1,Champions League HBO MAX 02
-http://pdsrv.io:80/livia1/livia1/117979
-#EXTINF:-1,E! FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/61161
-#EXTINF:-1,E! FHD¹ [H265] Dual Audio
-http://pdsrv.io:80/livia1/livia1/61160
-#EXTINF:-1,E! HD²
-http://pdsrv.io:80/livia1/livia1/97638
-#EXTINF:-1,E! HD¹
-http://pdsrv.io:80/livia1/livia1/10285
-#EXTINF:-1,E! SD²
-http://pdsrv.io:80/livia1/livia1/97639
-#EXTINF:-1,E! SD¹
-http://pdsrv.io:80/livia1/livia1/4382
-
-#EXTINF:-1,Globo 4K
-http://pdsrv.io:80/livia1/livia1/97363
-#EXTINF:-1,GLOBO BH FHD¹
-http://pdsrv.io:80/livia1/livia1/110975
-#EXTINF:-1,GLOBO BH HD¹
-http://pdsrv.io:80/livia1/livia1/110888
-#EXTINF:-1,Globo Boa Vista HD¹
-http://pdsrv.io:80/livia1/livia1/110901
-#EXTINF:-1,Globo Boa Vista SD¹
-http://pdsrv.io:80/livia1/livia1/110858
-#EXTINF:-1,Globo Brasilia FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/110887
-#EXTINF:-1,Globo Brasilia FHD²
-http://pdsrv.io:80/livia1/livia1/97436
-#EXTINF:-1,Globo Brasilia FHD¹
-http://pdsrv.io:80/livia1/livia1/110988
-#EXTINF:-1,GLobo Brasilia FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/110952
-#EXTINF:-1,Globo Brasilia FHD² [H265]
-http://pdsrv.io:80/livia1/livia1/34528
-#EXTINF:-1,Globo Brasilia HD²
-http://pdsrv.io:80/livia1/livia1/97437
-#EXTINF:-1,Globo Brasilia HD¹
-http://pdsrv.io:80/livia1/livia1/110900
-#EXTINF:-1,Globo Brasilia SD²
-http://pdsrv.io:80/livia1/livia1/97438
-#EXTINF:-1,Globo Brasilia SD¹
-http://pdsrv.io:80/livia1/livia1/110883
-#EXTINF:-1,Globo Brasília HD¹ DUAL AUDIO
-http://pdsrv.io:80/livia1/livia1/110903
-#EXTINF:-1,Globo Centro America FHD²
-http://pdsrv.io:80/livia1/livia1/97366
-#EXTINF:-1,Globo Centro America HD²
-http://pdsrv.io:80/livia1/livia1/97367
-#EXTINF:-1,Globo Centro America SD²
-http://pdsrv.io:80/livia1/livia1/97368
-#EXTINF:-1,Globo Cuaibá HD¹
-http://pdsrv.io:80/livia1/livia1/110899
-#EXTINF:-1,Globo EPTV Ribeirão Preto FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/110958
-#EXTINF:-1,Globo EPTV Ribeirão Preto SD¹
-http://pdsrv.io:80/livia1/livia1/110859
-#EXTINF:-1,Globo EPTV Sul de Minas FHD²
-http://pdsrv.io:80/livia1/livia1/113857
-#EXTINF:-1,Globo EPTV Sul de Minas FHD¹
-http://pdsrv.io:80/livia1/livia1/113856
-#EXTINF:-1,Globo EPTV Sul de Minas FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/113858
-#EXTINF:-1,Globo EPTV Sul de Minas HD²
-http://pdsrv.io:80/livia1/livia1/113855
-#EXTINF:-1,Globo EPTV Sul de Minas HD¹
-http://pdsrv.io:80/livia1/livia1/113854
-#EXTINF:-1,Globo EPTV Sul de Minas SD²
-http://pdsrv.io:80/livia1/livia1/113853
-#EXTINF:-1,Globo EPTV Sul De Minas SD¹
-http://pdsrv.io:80/livia1/livia1/113852
-#EXTINF:-1,Globo EPTV São Carlos SD²
-http://pdsrv.io:80/livia1/livia1/97376
-#EXTINF:-1,Globo EPTV São Carlos SD¹
-http://pdsrv.io:80/livia1/livia1/110860
-#EXTINF:-1,Globo Florianopolis HD¹
-http://pdsrv.io:80/livia1/livia1/110897
-#EXTINF:-1,Globo Gazeta HD¹
-http://pdsrv.io:80/livia1/livia1/110902
-#EXTINF:-1,Globo Inter Tv Cabugi HD²
-http://pdsrv.io:80/livia1/livia1/97377
-
-#EXTINF:-1,Globo Minas FHD²
-http://pdsrv.io:80/livia1/livia1/113844
-#EXTINF:-1,Globo Minas FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/113843
-#EXTINF:-1,Globo Minas HD²
-http://pdsrv.io:80/livia1/livia1/113842
-#EXTINF:-1,Globo Minas HD¹
-http://pdsrv.io:80/livia1/livia1/113841
-#EXTINF:-1,Globo Minas SD²
-http://pdsrv.io:80/livia1/livia1/113840
-#EXTINF:-1,Globo Minas SD¹
-http://pdsrv.io:80/livia1/livia1/113839
-#EXTINF:-1,Globo Natal SD¹
-http://pdsrv.io:80/livia1/livia1/110870
-
-#EXTINF:-1,SBT 4K
-http://pdsrv.io:80/livia1/livia1/109627
-#EXTINF:-1,SBT AM HD²
-http://pdsrv.io:80/livia1/livia1/97331
-#EXTINF:-1,SBT BA HD²
-http://pdsrv.io:80/livia1/livia1/97332
-#EXTINF:-1,SBT CE Jangadeiro SD²
-http://pdsrv.io:80/livia1/livia1/97333
-#EXTINF:-1,SBT GO HD²
-http://pdsrv.io:80/livia1/livia1/97334
-#EXTINF:-1,SBT HD²
-http://pdsrv.io:80/livia1/livia1/97336
-#EXTINF:-1,SBT MT HD²
-http://pdsrv.io:80/livia1/livia1/97338
-#EXTINF:-1,SBT PI FHD²
-http://pdsrv.io:80/livia1/livia1/97339
-#EXTINF:-1,SBT PR HD²
-http://pdsrv.io:80/livia1/livia1/97340
-#EXTINF:-1,SBT RJ FHD²
-http://pdsrv.io:80/livia1/livia1/97341
-#EXTINF:-1,SBT RJ HD¹
-http://pdsrv.io:80/livia1/livia1/113859
-#EXTINF:-1,SBT RS HD²
-http://pdsrv.io:80/livia1/livia1/97342
-#EXTINF:-1,SBT SD²
-http://pdsrv.io:80/livia1/livia1/97343
-#EXTINF:-1,SBT SP FHD¹
-http://pdsrv.io:80/livia1/livia1/97344
-#EXTINF:-1,SBT SP HD²
-http://pdsrv.io:80/livia1/livia1/97345
-#EXTINF:-1,SBT SP SD²
-http://pdsrv.io:80/livia1/livia1/97346
-#EXTINF:-1,SBT Tv Alterosa FHD¹
-http://pdsrv.io:80/livia1/livia1/111745
-#EXTINF:-1,SBT Tv Alterosa HD¹
-http://pdsrv.io:80/livia1/livia1/111744
-#EXTINF:-1,Record TV SP HD¹ 
-http://pdsrv.io:80/livia1/livia1/129773
-#EXTINF:-1,Record TV SP HD²
-http://pdsrv.io:80/livia1/livia1/129774
-#EXTINF:-1,Record TV SP FHD¹
-http://pdsrv.io:80/livia1/livia1/129776
-#EXTINF:-1,Record TV Brasilia SD¹
-http://pdsrv.io:80/livia1/livia1/129777
-#EXTINF:-1,Record TV Brasilia HD¹
-http://pdsrv.io:80/livia1/livia1/129778
-#EXTINF:-1,Record TV Brasilia HD²
-http://pdsrv.io:80/livia1/livia1/129779
-#EXTINF:-1,Record TV Minas SD¹
-http://pdsrv.io:80/livia1/livia1/129780
-#EXTINF:-1,Record TV Minas HD¹
-http://pdsrv.io:80/livia1/livia1/129781
-#EXTINF:-1,Record TV Minas HD²
-http://pdsrv.io:80/livia1/livia1/129782
-#EXTINF:-1,Record TV Bahia SD¹
-http://pdsrv.io:80/livia1/livia1/129784
-#EXTINF:-1,Record TV RS SD¹
-http://pdsrv.io:80/livia1/livia1/129786
-#EXTINF:-1,Record TV RS HD¹
-http://pdsrv.io:80/livia1/livia1/129787
-#EXTINF:-1,Record TV RS HD²
-http://pdsrv.io:80/livia1/livia1/129788
-#EXTINF:-1,Record TV RJ SD¹
-http://pdsrv.io:80/livia1/livia1/129818
-#EXTINF:-1,Record TV RJ HD¹
-http://pdsrv.io:80/livia1/livia1/129819
-#EXTINF:-1,Record TV RJ HD²
-http://pdsrv.io:80/livia1/livia1/129820
-#EXTINF:-1,Record TV RJ FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/129821
-#EXTINF:-1,Record TV SD¹
-http://pdsrv.io:80/livia1/livia1/129822
-#EXTINF:-1,Record TV SD²
-http://pdsrv.io:80/livia1/livia1/129823
-#EXTINF:-1,Record TV HD²
-http://pdsrv.io:80/livia1/livia1/129824
-#EXTINF:-1,Record TV FHD¹
-http://pdsrv.io:80/livia1/livia1/129825
-#EXTINF:-1,Record TV FHD²
-http://pdsrv.io:80/livia1/livia1/129826
-#EXTINF:-1,Record TV Goias SD¹
-http://pdsrv.io:80/livia1/livia1/129827
-#EXTINF:-1,Record TV Goias HD¹
-http://pdsrv.io:80/livia1/livia1/129828
-#EXTINF:-1,Record TV Goias HD²
-http://pdsrv.io:80/livia1/livia1/129829
-#EXTINF:-1,Record TV Manaus HD¹
-http://pdsrv.io:80/livia1/livia1/129853
-#EXTINF:-1,Record TV Manaus HD²
-http://pdsrv.io:80/livia1/livia1/129854
-#EXTINF:-1,Record TV Belem HD¹
-http://pdsrv.io:80/livia1/livia1/129856
-#EXTINF:-1,Record TV Belem HD²
-http://pdsrv.io:80/livia1/livia1/129857
-#EXTINF:-1,Record TV Tropical SD¹
-http://pdsrv.io:80/livia1/livia1/129858
-#EXTINF:-1,Record TV Tropical HD¹
-http://pdsrv.io:80/livia1/livia1/129859
-#EXTINF:-1,Record TV Tropical FHD¹
-http://pdsrv.io:80/livia1/livia1/129860
-#EXTINF:-1,Record TV Correio FHD¹
-http://pdsrv.io:80/livia1/livia1/129861
-#EXTINF:-1,Record TV Santos HD¹
-http://pdsrv.io:80/livia1/livia1/129862
-#EXTINF:-1,Record TV Santos FHD {H265}
-http://pdsrv.io:80/livia1/livia1/129863
-#EXTINF:-1,Record TV Atalaia SD
-http://pdsrv.io:80/livia1/livia1/129864
-#EXTINF:-1,Record TV Atalaia HD
-http://pdsrv.io:80/livia1/livia1/129865
-#EXTINF:-1,Record TV Atalaia FHD
-http://pdsrv.io:80/livia1/livia1/129866
-#EXTINF:-1,Record TV Bahia HD²
-http://pdsrv.io:80/livia1/livia1/129869
-#EXTINF:-1,Record TV Bahia FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/129870
-
-#EXTINF:-1,Record TV Recife SD¹
-http://pdsrv.io:80/livia1/livia1/129872
-#EXTINF:-1,Record TV Cabralia FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/129873
-#EXTINF:-1,Record TV RictTV Maringa SD¹
-http://pdsrv.io:80/livia1/livia1/129874
-#EXTINF:-1,Record TV RictTV Maringa FHD¹ {H264}
-http://pdsrv.io:80/livia1/livia1/129876
-#EXTINF:-1,Record TV AL HD²
-http://pdsrv.io:80/livia1/livia1/129877
-#EXTINF:-1,Record TV ES SD²
-http://pdsrv.io:80/livia1/livia1/129878
-#EXTINF:-1,Record TV PR FHD²
-http://pdsrv.io:80/livia1/livia1/129879
-#EXTINF:-1,Record TV Paranaiba {MG}
-http://pdsrv.io:80/livia1/livia1/129880
-#EXTINF:-1,Record TV SC HD¹
-http://pdsrv.io:80/livia1/livia1/129881
-#EXTINF:-1,Record SC HD²
-http://pdsrv.io:80/livia1/livia1/129882
-#EXTINF:-1,Record TV MT FHD²
-http://pdsrv.io:80/livia1/livia1/129883
-#EXTINF:-1,Record TV Criciuma HD²
-http://pdsrv.io:80/livia1/livia1/129884
-#EXTINF:-1,Record TV Rondonia FHD
-http://pdsrv.io:80/livia1/livia1/129885
-#EXTINF:-1,Record TV Juina SD¹
-http://pdsrv.io:80/livia1/livia1/129886
-#EXTINF:-1,Record Floripa HD¹
-http://pdsrv.io:80/livia1/livia1/129887
-#EXTINF:-1,Band  Belem HD¹
-http://pdsrv.io:80/livia1/livia1/111104
-
-#EXTINF:-1,Band FHD²
-http://pdsrv.io:80/livia1/livia1/97607
-#EXTINF:-1,Band FHD¹
-http://pdsrv.io:80/livia1/livia1/111105
-#EXTINF:-1,Band FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/111106
-#EXTINF:-1,Band HD²
-http://pdsrv.io:80/livia1/livia1/97609
-#EXTINF:-1,Band HD¹
-http://pdsrv.io:80/livia1/livia1/111107
-#EXTINF:-1,Discovery Channel 4K
-http://pdsrv.io:80/livia1/livia1/97171
-#EXTINF:-1,Discovery Channel FHD²
-http://pdsrv.io:80/livia1/livia1/97172
-#EXTINF:-1,Discovery Channel FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/69150
-#EXTINF:-1,Discovery Channel FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/39331
-#EXTINF:-1,Discovery Channel HD²
-http://pdsrv.io:80/livia1/livia1/97173
-#EXTINF:-1,Discovery Channel HD¹
-http://pdsrv.io:80/livia1/livia1/6132
-#EXTINF:-1,Discovery Channel SD²
-http://pdsrv.io:80/livia1/livia1/97174
-#EXTINF:-1,Discovery Channel SD¹
-http://pdsrv.io:80/livia1/livia1/61074
-#EXTINF:-1,Discovery Home & Health 4K²
-http://pdsrv.io:80/livia1/livia1/110990
-#EXTINF:-1,Discovery Home & Health FHD²
-http://pdsrv.io:80/livia1/livia1/97175
-#EXTINF:-1,Discovery Home & Health FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/69151
-#EXTINF:-1,Discovery Home & Health FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/61231
-#EXTINF:-1,Discovery Home & Health HD²
-http://pdsrv.io:80/livia1/livia1/97176
-#EXTINF:-1,Discovery Home & Health HD¹
-http://pdsrv.io:80/livia1/livia1/6131
-#EXTINF:-1,Discovery Home & Health SD²
-http://pdsrv.io:80/livia1/livia1/97177
-#EXTINF:-1,Discovery Home & Health SD¹
-http://pdsrv.io:80/livia1/livia1/4389
-#EXTINF:-1,Discovery ID FHD²
-http://pdsrv.io:80/livia1/livia1/97178
-#EXTINF:-1,Discovery ID HD²
-http://pdsrv.io:80/livia1/livia1/97179
-#EXTINF:-1,Discovery ID SD²
-http://pdsrv.io:80/livia1/livia1/97180
-#EXTINF:-1,Discovery Kids FHD²
-http://pdsrv.io:80/livia1/livia1/100267
-#EXTINF:-1,Discovery Kids FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100266
-#EXTINF:-1,Discovery Kids FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100268
-#EXTINF:-1,Discovery Kids HD²
-http://pdsrv.io:80/livia1/livia1/100265
-#EXTINF:-1,Discovery Kids HD¹
-http://pdsrv.io:80/livia1/livia1/100264
-#EXTINF:-1,Discovery Kids SD²
-http://pdsrv.io:80/livia1/livia1/100263
-#EXTINF:-1,Discovery Kids SD¹
-http://pdsrv.io:80/livia1/livia1/100262
-#EXTINF:-1,Discovery Science FHD²
-http://pdsrv.io:80/livia1/livia1/97184
-#EXTINF:-1,Discovery Science FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/61232
-#EXTINF:-1,Discovery Science FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/13206
-#EXTINF:-1,Discovery Science HD²
-http://pdsrv.io:80/livia1/livia1/97185
-#EXTINF:-1,Discovery Science HD¹
-http://pdsrv.io:80/livia1/livia1/7861
-#EXTINF:-1,Discovery Science SD²
-http://pdsrv.io:80/livia1/livia1/97186
-#EXTINF:-1,Discovery Theather FHD²
-http://pdsrv.io:80/livia1/livia1/97187
-#EXTINF:-1,Discovery Theather FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/11530
-#EXTINF:-1,Discovery Theather FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/61233
-#EXTINF:-1,Discovery Theather HD²
-http://pdsrv.io:80/livia1/livia1/97188
-#EXTINF:-1,Discovery Theather HD¹
-http://pdsrv.io:80/livia1/livia1/6130
-#EXTINF:-1,Discovery Theather SD²
-http://pdsrv.io:80/livia1/livia1/97189
-#EXTINF:-1,Discovery Turbo 4K¹
-http://pdsrv.io:80/livia1/livia1/110989
-#EXTINF:-1,Discovery Turbo FHD²
-http://pdsrv.io:80/livia1/livia1/97190
-#EXTINF:-1,Discovery Turbo FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/61234
-#EXTINF:-1,Discovery Turbo HD²
-http://pdsrv.io:80/livia1/livia1/97191
-#EXTINF:-1,Discovery Turbo HD¹
-http://pdsrv.io:80/livia1/livia1/6877
-#EXTINF:-1,Discovery Turbo SD²
-http://pdsrv.io:80/livia1/livia1/97192
-#EXTINF:-1,Discovery World FHD²
-http://pdsrv.io:80/livia1/livia1/97193
-#EXTINF:-1,Discovery World FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/61235
-#EXTINF:-1,Discovery World HD²
-http://pdsrv.io:80/livia1/livia1/97194
-#EXTINF:-1,Discovery World HD¹
-http://pdsrv.io:80/livia1/livia1/6128
-#EXTINF:-1,Discovery World SD²
-http://pdsrv.io:80/livia1/livia1/97195
-#EXTINF:-1,Disney Channel FHD²
-http://pdsrv.io:80/livia1/livia1/100311
-#EXTINF:-1,Disney Channel FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100310
-#EXTINF:-1,Disney Channel FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100312
-#EXTINF:-1,Disney Channel HD²
-http://pdsrv.io:80/livia1/livia1/100309
-#EXTINF:-1,Disney Channel HD¹
-http://pdsrv.io:80/livia1/livia1/100308
-#EXTINF:-1,Disney Channel SD²
-http://pdsrv.io:80/livia1/livia1/100307
-#EXTINF:-1,DOG TV FHD H264
-http://pdsrv.io:80/livia1/livia1/61458
-#EXTINF:-1,DOG TV HD
-http://pdsrv.io:80/livia1/livia1/61459
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [FHD]" tvg-logo="http://p6.vc/AXJ" group-title="Canais | Premiere",PREMIERE 2 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/525.ts
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [FHD][H265]" tvg-logo="http://p6.vc/VSX" group-title="Canais | Premiere",PREMIERE 2 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30284.ts
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [HD]" tvg-logo="http://p6.vc/AXP" group-title="Canais | Premiere",PREMIERE 2 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/531.ts
+#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [SD]" tvg-logo="http://p6.vc/AXU" group-title="Canais | Premiere",PREMIERE 2 [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/538.ts
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [FHD]" tvg-logo="http://p6.vc/AXK" group-title="Canais | Premiere",PREMIERE 3 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/526.ts
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [FHD][H265]" tvg-logo="http://p6.vc/VSY" group-title="Canais | Premiere",PREMIERE 3 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30285.ts
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [HD]" tvg-logo="http://p6.vc/AXQ" group-title="Canais | Premiere",PREMIERE 3 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/532.ts
+#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [SD]" tvg-logo="http://p6.vc/AXV" group-title="Canais | Premiere",PREMIERE 3 [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/539.ts
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [FHD]" tvg-logo="http://p6.vc/AXL" group-title="Canais | Premiere",PREMIERE 4 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/527.ts
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [FHD][H265]" tvg-logo="http://p6.vc/VTB" group-title="Canais | Premiere",PREMIERE 4 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30288.ts
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [HD]" tvg-logo="http://p6.vc/VSF" group-title="Canais | Premiere",PREMIERE 4 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/533.ts
+#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [SD]" tvg-logo="http://p6.vc/AXW" group-title="Canais | Premiere",PREMIERE 4 [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/540.ts
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [FHD]" tvg-logo="http://p6.vc/AXM" group-title="Canais | Premiere",PREMIERE 5 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/528.ts
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [FHD][H265]" tvg-logo="http://p6.vc/VSZ" group-title="Canais | Premiere",PREMIERE 5 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30286.ts
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [HD]" tvg-logo="http://p6.vc/AXR" group-title="Canais | Premiere",PREMIERE 5 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/534.ts
+#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [SD]" tvg-logo="http://p6.vc/AXX" group-title="Canais | Premiere",PREMIERE 5 [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/541.ts
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [FHD]" tvg-logo="http://p6.vc/AXN" group-title="Canais | Premiere",PREMIERE 6 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/529.ts
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [FHD][H265]" tvg-logo="http://p6.vc/VTC" group-title="Canais | Premiere",PREMIERE 6 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30289.ts
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [HD]" tvg-logo="http://p6.vc/AXS" group-title="Canais | Premiere",PREMIERE 6 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/535.ts
+#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [SD]" tvg-logo="http://p6.vc/AXY" group-title="Canais | Premiere",PREMIERE 6 [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/542.ts
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [FHD]" tvg-logo="http://p6.vc/AXO" group-title="Canais | Premiere",PREMIERE 7 [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/530.ts
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [FHD][H265]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere",PREMIERE 7 [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30290.ts
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [HD]" tvg-logo="http://p6.vc/VSG" group-title="Canais | Premiere",PREMIERE 7 [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/536.ts
+#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [SD]" tvg-logo="http://p6.vc/AXZ" group-title="Canais | Premiere",PREMIERE 7 [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/543.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes HD" tvg-name="Premiere Club [4K]" tvg-logo="http://p6.vc/AZJ" group-title="Canais | 4K",Premiere Club [4K]
+http://cdn33.cc:80/patrickpimentel/topip2010/584.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [FHD]" tvg-logo="http://p6.vc/AXI" group-title="Canais | Premiere",PREMIERE CLUBES [FHD]
+http://cdn33.cc:80/patrickpimentel/topip2010/524.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [FHD][H265]" tvg-logo="http://p6.vc/VTA" group-title="Canais | Premiere",PREMIERE CLUBES [FHD][H265]
+http://cdn33.cc:80/patrickpimentel/topip2010/30287.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [HD]" tvg-logo="http://p6.vc/AXT" group-title="Canais | Premiere",PREMIERE CLUBES [HD]
+http://cdn33.cc:80/patrickpimentel/topip2010/537.ts
+#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [SD]" tvg-logo="http://p6.vc/AYA" group-title="Canais | Premiere",PREMIERE CLUBES [SD]
+http://cdn33.cc:80/patrickpimentel/topip2010/544.ts
 
 
-#EXTINF:-1,Animal Planet 4K
-http://pdsrv.io:80/livia1/livia1/97167
-#EXTINF:-1,Animal Planet  SD¹
-http://pdsrv.io:80/livia1/livia1/129376
-#EXTINF:-1,Animal Planet SD²
-http://pdsrv.io:80/livia1/livia1/129377
-#EXTINF:-1,Animal Planet HD¹
-http://pdsrv.io:80/livia1/livia1/129378
-#EXTINF:-1,Animal Planet HD²
-http://pdsrv.io:80/livia1/livia1/129379
-#EXTINF:-1,Animal Planet  FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/129380
-#EXTINF:-1,Animal Planet FHD²
-http://pdsrv.io:80/livia1/livia1/129381
-#EXTINF:-1,Animal Planet  FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/129382
 
 
-#EXTINF:-1,Natgeo FHD²
-http://pdsrv.io:80/livia1/livia1/113087
-#EXTINF:-1,Natgeo FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/113085
-#EXTINF:-1,Natgeo FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/113086
-#EXTINF:-1,Natgeo HD²
-http://pdsrv.io:80/livia1/livia1/113084
-#EXTINF:-1,Natgeo HD¹
-http://pdsrv.io:80/livia1/livia1/113083
-#EXTINF:-1,Natgeo SD²
-http://pdsrv.io:80/livia1/livia1/113082
-#EXTINF:-1,Natgeo SD¹
-http://pdsrv.io:80/livia1/livia1/113081
-#EXTINF:-1,H2 FHD²
-http://pdsrv.io:80/livia1/livia1/97244
-#EXTINF:-1,H2 FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/69152
-#EXTINF:-1,H2 FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/13187
-#EXTINF:-1,H2 FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/61239
-#EXTINF:-1,H2 HD²
-http://pdsrv.io:80/livia1/livia1/97245
-#EXTINF:-1,H2 HD¹
-http://pdsrv.io:80/livia1/livia1/6111
-#EXTINF:-1,H2 HD¹
-http://pdsrv.io:80/livia1/livia1/80171
-#EXTINF:-1,H2 SD²
-http://pdsrv.io:80/livia1/livia1/97246
-#EXTINF:-1,H2 SD¹
-http://pdsrv.io:80/livia1/livia1/4367
-#EXTINF:-1,H2 SD¹
-http://pdsrv.io:80/livia1/livia1/80170
-#EXTINF:-1,History  HD¹
-http://pdsrv.io:80/livia1/livia1/6104
-#EXTINF:-1,History FHD²
-http://pdsrv.io:80/livia1/livia1/97243
-#EXTINF:-1,History FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/61460
-#EXTINF:-1,History FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/13211
-#EXTINF:-1,History HD²
-http://pdsrv.io:80/livia1/livia1/97247
-#EXTINF:-1,History SD²
-http://pdsrv.io:80/livia1/livia1/4314
-#EXTINF:-1,Investigacao Discovery FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/94707
-#EXTINF:-1,Investigacao Discovery FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/30696
-#EXTINF:-1,Investigacao Discovery HD¹
-http://pdsrv.io:80/livia1/livia1/6869
-#EXTINF:-1,Investigacao Discovery SD¹
-http://pdsrv.io:80/livia1/livia1/4360
-#EXTINF:-1,Cartoon Network 4K
-http://pdsrv.io:80/livia1/livia1/97234
-#EXTINF:-1,Cartoon Network FHD²
-http://pdsrv.io:80/livia1/livia1/100260
-#EXTINF:-1,Cartoon Network FHD¹ [H264]
-http://pdsrv.io:80/livia1/livia1/100259
-#EXTINF:-1,Cartoon Network FHD¹ [H265]
-http://pdsrv.io:80/livia1/livia1/100261
-#EXTINF:-1,Cartoon Network HD²
-http://pdsrv.io:80/livia1/livia1/100258
-#EXTINF:-1,Cartoon Network HD¹
-http://pdsrv.io:80/livia1/livia1/100257
-#EXTINF:-1,Cartoon Network SD²
-http://pdsrv.io:80/livia1/livia1/100256
-#EXTINF:-1,Cartoon Network SD¹
-http://pdsrv.io:80/livia1/livia1/100255
-
-#EXTINF:-1,24H Tom & Jerry Classico
-http://pdsrv.io:80/livia1/livia1/60776
-#EXTINF:-1,24H Tom & Jerry New York
-http://pdsrv.io:80/livia1/livia1/100142
-#EXTINF:-1,24HR O SHOW DO GARFIELD
-http://pdsrv.io:80/livia1/livia1/60720
-
-#EXTINF:-1,24H Chaves Multishow
-http://pdsrv.io:80/livia1/livia1/164548
-#EXTINF:-1,24H Chaves T - 01 E T - 02
-http://pdsrv.io:80/livia1/livia1/164549
-#EXTINF:-1,24H Chaves T - 03 E T - 04
-http://pdsrv.io:80/livia1/livia1/164550
-#EXTINF:-1,24H Chaves T- 05 E T- 06
-http://pdsrv.io:80/livia1/livia1/164551
-#EXTINF:-1,24H Chaves T - 07
-http://pdsrv.io:80/livia1/livia1/164552
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S01]" tvg-logo="http://p6.vc/CUL7" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S01]
+http://cdn33.cc:80/patrickpimentel/topip2010/227598.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S02]" tvg-logo="http://p6.vc/CUL8" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S02]
+http://cdn33.cc:80/patrickpimentel/topip2010/227599.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S03]" tvg-logo="http://p6.vc/CUL9" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S03]
+http://cdn33.cc:80/patrickpimentel/topip2010/227600.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S04]" tvg-logo="http://p6.vc/CUM0" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S04]
+http://cdn33.cc:80/patrickpimentel/topip2010/227601.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S05]" tvg-logo="http://p6.vc/CUM1" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S05]
+http://cdn33.cc:80/patrickpimentel/topip2010/227602.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S06]" tvg-logo="http://p6.vc/CUM2" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S06]
+http://cdn33.cc:80/patrickpimentel/topip2010/227603.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S07]" tvg-logo="http://p6.vc/CUM3" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S07]
+http://cdn33.cc:80/patrickpimentel/topip2010/227604.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S08]" tvg-logo="http://p6.vc/CUM4" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S08]
+http://cdn33.cc:80/patrickpimentel/topip2010/227605.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S09]" tvg-logo="http://p6.vc/CUM5" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S09]
+http://cdn33.cc:80/patrickpimentel/topip2010/227606.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S10]" tvg-logo="http://p6.vc/CUM6" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S10]
+http://cdn33.cc:80/patrickpimentel/topip2010/227607.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S11]" tvg-logo="http://p6.vc/CUM7" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S11]
+http://cdn33.cc:80/patrickpimentel/topip2010/227608.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S12]" tvg-logo="http://p6.vc/CUM8" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S12]
+http://cdn33.cc:80/patrickpimentel/topip2010/227609.ts
 
 
-#EXTINF:-1,Comedy Central South Park
-http://pdsrv.io:80/livia1/livia1/111281
-#EXTINF:-1,24H Mickey Donald e Pateta
-http://pdsrv.io:80/livia1/livia1/117485
-#EXTINF:-1,24H Papa Leguas
-http://pdsrv.io:80/livia1/livia1/164555
-#EXTINF:-1,24H A Casa Do Mickey Mouse
-http://pdsrv.io:80/livia1/livia1/78991
-#EXTINF:-1,24H A Turma Do Charlie Brown
-http://pdsrv.io:80/livia1/livia1/76985
-#EXTINF:-1,24H A turma Do Pateta
-http://pdsrv.io:80/livia1/livia1/79238
-#EXTINF:-1,24H Pernalonga e Seus Amigos 
-http://pdsrv.io:80/livia1/livia1/117453
-
-#EXTINF:-1,24H Chernobyl
-http://pdsrv.io:80/livia1/livia1/60771
-
-
-#EXTINF:-1,24H SUPERNATURAL T01 A 05
-http://pdsrv.io:80/livia1/livia1/112113
-
-#EXTINF:-1,24H Dois Homens e Meio T-01 A T-06
-http://pdsrv.io:80/livia1/livia1/68363
-#EXTINF:-1,24H Dois Homens e Meio T-07 A T-12
-http://pdsrv.io:80/livia1/livia1/75561
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S01]" tvg-logo="http://p6.vc/CUL7" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S01]
+http://cdn33.cc:80/patrickpimentel/topip2010/227598.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S02]" tvg-logo="http://p6.vc/CUL8" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S02]
+http://cdn33.cc:80/patrickpimentel/topip2010/227599.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S03]" tvg-logo="http://p6.vc/CUL9" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S03]
+http://cdn33.cc:80/patrickpimentel/topip2010/227600.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S04]" tvg-logo="http://p6.vc/CUM0" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S04]
+http://cdn33.cc:80/patrickpimentel/topip2010/227601.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S05]" tvg-logo="http://p6.vc/CUM1" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S05]
+http://cdn33.cc:80/patrickpimentel/topip2010/227602.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S06]" tvg-logo="http://p6.vc/CUM2" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S06]
+http://cdn33.cc:80/patrickpimentel/topip2010/227603.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S07]" tvg-logo="http://p6.vc/CUM3" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S07]
+http://cdn33.cc:80/patrickpimentel/topip2010/227604.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S08]" tvg-logo="http://p6.vc/CUM4" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S08]
+http://cdn33.cc:80/patrickpimentel/topip2010/227605.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S09]" tvg-logo="http://p6.vc/CUM5" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S09]
+http://cdn33.cc:80/patrickpimentel/topip2010/227606.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S10]" tvg-logo="http://p6.vc/CUM6" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S10]
+http://cdn33.cc:80/patrickpimentel/topip2010/227607.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S11]" tvg-logo="http://p6.vc/CUM7" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S11]
+http://cdn33.cc:80/patrickpimentel/topip2010/227608.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S12]" tvg-logo="http://p6.vc/CUM8" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S12]
+http://cdn33.cc:80/patrickpimentel/topip2010/227609.ts
 
 
-#EXTINF:-1,24H Todo Mundo Odeia o Chris
-http://pdsrv.io:80/livia1/livia1/34931
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S01]" tvg-logo="http://p6.vc/CUG7" group-title="Canais | Series [24H]",[24H] Chaves [S01]
+http://cdn33.cc:80/patrickpimentel/topip2010/227545.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S02]" tvg-logo="http://p6.vc/CUG8" group-title="Canais | Series [24H]",[24H] Chaves [S02]
+http://cdn33.cc:80/patrickpimentel/topip2010/227546.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S03]" tvg-logo="http://p6.vc/CUG9" group-title="Canais | Series [24H]",[24H] Chaves [S03]
+http://cdn33.cc:80/patrickpimentel/topip2010/227547.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S04]" tvg-logo="http://p6.vc/CUH0" group-title="Canais | Series [24H]",[24H] Chaves [S04]
+http://cdn33.cc:80/patrickpimentel/topip2010/227548.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S05]" tvg-logo="http://p6.vc/CUH1" group-title="Canais | Series [24H]",[24H] Chaves [S05]
+http://cdn33.cc:80/patrickpimentel/topip2010/227549.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S06]" tvg-logo="http://p6.vc/CUH2" group-title="Canais | Series [24H]",[24H] Chaves [S06]
+http://cdn33.cc:80/patrickpimentel/topip2010/227550.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S07]" tvg-logo="http://p6.vc/CUH3" group-title="Canais | Series [24H]",[24H] Chaves [S07]
+http://cdn33.cc:80/patrickpimentel/topip2010/227551.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mr. Bean" tvg-logo="http://cdn33.cc:80/images/ddbe792ed6f7e2559ebca122404bc7dc.jpg" group-title="Canais | 24 Horas",[24H] Mr. Bean
+http://cdn33.cc:80/ELISIO6854/SZ7343/228507.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Mr. Bean" tvg-logo="http://cdn33.cc:80/images/ddbe792ed6f7e2559ebca122404bc7dc.jpg" group-title="Canais | 24 Horas",[24H] Mr. Bean
+http://cdn33.cc:80/patrickpimentel/topip2010/228507.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S01]" tvg-logo="http://p6.vc/CWE5" group-title="Canais | Series [24H]",[24H] Supernatural [S01]
+http://cdn33.cc:80/patrickpimentel/topip2010/228196.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S01] [L]" tvg-logo="http://p6.vc/CWE6" group-title="Canais | Series [24H]",[24H] Supernatural [S01] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228199.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S02]" tvg-logo="http://p6.vc/CWE7" group-title="Canais | Series [24H]",[24H] Supernatural [S02]
+http://cdn33.cc:80/patrickpimentel/topip2010/228202.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S02] [L]" tvg-logo="http://p6.vc/CWE8" group-title="Canais | Series [24H]",[24H] Supernatural [S02] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228205.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S03]" tvg-logo="http://p6.vc/CWE9" group-title="Canais | Series [24H]",[24H] Supernatural [S03]
+http://cdn33.cc:80/patrickpimentel/topip2010/228208.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S03] [L]" tvg-logo="http://p6.vc/CWF0" group-title="Canais | Series [24H]",[24H] Supernatural [S03] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228211.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S04]" tvg-logo="http://p6.vc/CWF1" group-title="Canais | Series [24H]",[24H] Supernatural [S04]
+http://cdn33.cc:80/patrickpimentel/topip2010/228214.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S04] [L]" tvg-logo="http://p6.vc/CWF2" group-title="Canais | Series [24H]",[24H] Supernatural [S04] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228217.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S05]" tvg-logo="http://p6.vc/CWF3" group-title="Canais | Series [24H]",[24H] Supernatural [S05]
+http://cdn33.cc:80/patrickpimentel/topip2010/228220.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S05] [L]" tvg-logo="http://p6.vc/CWF4" group-title="Canais | Series [24H]",[24H] Supernatural [S05] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228223.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S06]" tvg-logo="http://p6.vc/CWF5" group-title="Canais | Series [24H]",[24H] Supernatural [S06]
+http://cdn33.cc:80/patrickpimentel/topip2010/228226.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S06] [L]" tvg-logo="http://p6.vc/CWF6" group-title="Canais | Series [24H]",[24H] Supernatural [S06] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228229.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S07]" tvg-logo="http://p6.vc/CWF7" group-title="Canais | Series [24H]",[24H] Supernatural [S07]
+http://cdn33.cc:80/patrickpimentel/topip2010/228232.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S07] [L]" tvg-logo="http://p6.vc/CWF8" group-title="Canais | Series [24H]",[24H] Supernatural [S07] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228235.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S08]" tvg-logo="http://p6.vc/CWF9" group-title="Canais | Series [24H]",[24H] Supernatural [S08]
+http://cdn33.cc:80/patrickpimentel/topip2010/228238.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S08] [L]" tvg-logo="http://p6.vc/CWG0" group-title="Canais | Series [24H]",[24H] Supernatural [S08] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228241.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S09]" tvg-logo="http://p6.vc/CWG1" group-title="Canais | Series [24H]",[24H] Supernatural [S09]
+http://cdn33.cc:80/patrickpimentel/topip2010/228244.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S09] [L]" tvg-logo="http://p6.vc/CWG2" group-title="Canais | Series [24H]",[24H] Supernatural [S09] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228247.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S10]" tvg-logo="http://p6.vc/CWG3" group-title="Canais | Series [24H]",[24H] Supernatural [S10]
+http://cdn33.cc:80/patrickpimentel/topip2010/228250.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S10] [L]" tvg-logo="http://p6.vc/CWG4" group-title="Canais | Series [24H]",[24H] Supernatural [S10] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228253.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S11]" tvg-logo="http://p6.vc/CWG5" group-title="Canais | Series [24H]",[24H] Supernatural [S11]
+http://cdn33.cc:80/patrickpimentel/topip2010/228256.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S11] [L]" tvg-logo="http://p6.vc/CWG6" group-title="Canais | Series [24H]",[24H] Supernatural [S11] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228259.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S12]" tvg-logo="http://p6.vc/CWG7" group-title="Canais | Series [24H]",[24H] Supernatural [S12]
+http://cdn33.cc:80/patrickpimentel/topip2010/228262.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S12] [L]" tvg-logo="http://p6.vc/CWG8" group-title="Canais | Series [24H]",[24H] Supernatural [S12] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228265.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S13]" tvg-logo="http://p6.vc/CWG9" group-title="Canais | Series [24H]",[24H] Supernatural [S13]
+http://cdn33.cc:80/patrickpimentel/topip2010/228268.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S13] [L]" tvg-logo="http://p6.vc/CWH0" group-title="Canais | Series [24H]",[24H] Supernatural [S13] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228271.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S14]" tvg-logo="http://p6.vc/CWH1" group-title="Canais | Series [24H]",[24H] Supernatural [S14]
+http://cdn33.cc:80/patrickpimentel/topip2010/228274.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S14] [L]" tvg-logo="http://p6.vc/CWH2" group-title="Canais | Series [24H]",[24H] Supernatural [S14] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228277.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S15]" tvg-logo="http://p6.vc/CWH3" group-title="Canais | Series [24H]",[24H] Supernatural [S15]
+http://cdn33.cc:80/patrickpimentel/topip2010/228280.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S15] [L]" tvg-logo="http://p6.vc/CWH4" group-title="Canais | Series [24H]",[24H] Supernatural [S15] [L]
+http://cdn33.cc:80/patrickpimentel/topip2010/228283.ts
+
