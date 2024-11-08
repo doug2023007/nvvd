@@ -1,246 +1,47 @@
+
+
 #EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [FHD]" tvg-logo="http://p6.vc/ARY" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/361.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/361.ts
 #EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [FHD][H265]" tvg-logo="http://p6.vc/VDF" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30199.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/30199.ts
 #EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [HD]" tvg-logo="http://p6.vc/VCQ" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/386.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/386.ts
 #EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [SD]" tvg-logo="http://p6.vc/ATY" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/421.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/421.ts
+
 
 #EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://p6.vc/AYH" group-title="Canais | SporTV",SPORTV 2 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/553.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/553.ts
 #EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://p6.vc/WHV" group-title="Canais | SporTV",SPORTV 2 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30291.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/30291.ts
 #EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [HD]" tvg-logo="http://p6.vc/AYK" group-title="Canais | SporTV",SPORTV 2 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/557.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/557.ts
 #EXTINF:-1 tvg-id="BR - SporTV2" tvg-name="SPORTV 2 [SD]" tvg-logo="http://p6.vc/AYN" group-title="Canais | SporTV",SPORTV 2 [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/560.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/560.ts
 #EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [FHD]" tvg-logo="http://p6.vc/WGW" group-title="Canais | SporTV",SPORTV 3 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/554.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/554.ts
 #EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30292.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/30292.ts
 #EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [HD]" tvg-logo="http://p6.vc/AYL" group-title="Canais | SporTV",SPORTV 3 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/558.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/558.ts
 #EXTINF:-1 tvg-id="BR - SporTV3" tvg-name="SPORTV 3 [SD]" tvg-logo="http://p6.vc/AYL" group-title="Canais | SporTV",SPORTV 3 [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/561.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/561.ts
 #EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SporTV [4K]" tvg-logo="http://p6.vc/7" group-title="Canais | 4K",SporTV [4K]
-http://cdn33.cc:80/patrickpimentel/topip2010/589.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/589.ts
 #EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD]" tvg-logo="http://p6.vc/AYI" group-title="Canais | SporTV",SPORTV [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/555.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/555.ts
 #EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [FHD][H265]" tvg-logo="http://p6.vc/WHX" group-title="Canais | SporTV",SPORTV [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30293.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/30293.ts
 #EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [HD]" tvg-logo="http://p6.vc/AYJ" group-title="Canais | SporTV",SPORTV [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/556.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/556.ts
 #EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV [SD]" tvg-logo="http://p6.vc/AYM" group-title="Canais | SporTV",SPORTV [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/559.ts
-
+http://cdn33.cc:80/ELISIO6854/SZ7343/559.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD][HDR]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD][HDR]
-http://cdn33.cc:80/patrickpimentel/topip2010/233619.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/233619.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/233620.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/233620.ts
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/233621.ts
+http://cdn33.cc:80/ELISIO6854/SZ7343/233621.ts
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [HD]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/233622.ts
-
-
-
-
-#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [FHD]" tvg-logo="http://p6.vc/AXJ" group-title="Canais | Premiere",PREMIERE 2 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/525.ts
-#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [FHD][H265]" tvg-logo="http://p6.vc/VSX" group-title="Canais | Premiere",PREMIERE 2 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30284.ts
-#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [HD]" tvg-logo="http://p6.vc/AXP" group-title="Canais | Premiere",PREMIERE 2 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/531.ts
-#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 [SD]" tvg-logo="http://p6.vc/AXU" group-title="Canais | Premiere",PREMIERE 2 [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/538.ts
-#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [FHD]" tvg-logo="http://p6.vc/AXK" group-title="Canais | Premiere",PREMIERE 3 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/526.ts
-#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [FHD][H265]" tvg-logo="http://p6.vc/VSY" group-title="Canais | Premiere",PREMIERE 3 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30285.ts
-#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [HD]" tvg-logo="http://p6.vc/AXQ" group-title="Canais | Premiere",PREMIERE 3 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/532.ts
-#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 [SD]" tvg-logo="http://p6.vc/AXV" group-title="Canais | Premiere",PREMIERE 3 [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/539.ts
-#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [FHD]" tvg-logo="http://p6.vc/AXL" group-title="Canais | Premiere",PREMIERE 4 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/527.ts
-#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [FHD][H265]" tvg-logo="http://p6.vc/VTB" group-title="Canais | Premiere",PREMIERE 4 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30288.ts
-#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [HD]" tvg-logo="http://p6.vc/VSF" group-title="Canais | Premiere",PREMIERE 4 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/533.ts
-#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 [SD]" tvg-logo="http://p6.vc/AXW" group-title="Canais | Premiere",PREMIERE 4 [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/540.ts
-#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [FHD]" tvg-logo="http://p6.vc/AXM" group-title="Canais | Premiere",PREMIERE 5 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/528.ts
-#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [FHD][H265]" tvg-logo="http://p6.vc/VSZ" group-title="Canais | Premiere",PREMIERE 5 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30286.ts
-#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [HD]" tvg-logo="http://p6.vc/AXR" group-title="Canais | Premiere",PREMIERE 5 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/534.ts
-#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 [SD]" tvg-logo="http://p6.vc/AXX" group-title="Canais | Premiere",PREMIERE 5 [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/541.ts
-#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [FHD]" tvg-logo="http://p6.vc/AXN" group-title="Canais | Premiere",PREMIERE 6 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/529.ts
-#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [FHD][H265]" tvg-logo="http://p6.vc/VTC" group-title="Canais | Premiere",PREMIERE 6 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30289.ts
-#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [HD]" tvg-logo="http://p6.vc/AXS" group-title="Canais | Premiere",PREMIERE 6 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/535.ts
-#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 [SD]" tvg-logo="http://p6.vc/AXY" group-title="Canais | Premiere",PREMIERE 6 [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/542.ts
-#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [FHD]" tvg-logo="http://p6.vc/AXO" group-title="Canais | Premiere",PREMIERE 7 [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/530.ts
-#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [FHD][H265]" tvg-logo="http://p6.vc/VTD" group-title="Canais | Premiere",PREMIERE 7 [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30290.ts
-#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [HD]" tvg-logo="http://p6.vc/VSG" group-title="Canais | Premiere",PREMIERE 7 [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/536.ts
-#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 [SD]" tvg-logo="http://p6.vc/AXZ" group-title="Canais | Premiere",PREMIERE 7 [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/543.ts
-#EXTINF:-1 tvg-id="BR - Premiere Clubes HD" tvg-name="Premiere Club [4K]" tvg-logo="http://p6.vc/AZJ" group-title="Canais | 4K",Premiere Club [4K]
-http://cdn33.cc:80/patrickpimentel/topip2010/584.ts
-#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [FHD]" tvg-logo="http://p6.vc/AXI" group-title="Canais | Premiere",PREMIERE CLUBES [FHD]
-http://cdn33.cc:80/patrickpimentel/topip2010/524.ts
-#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [FHD][H265]" tvg-logo="http://p6.vc/VTA" group-title="Canais | Premiere",PREMIERE CLUBES [FHD][H265]
-http://cdn33.cc:80/patrickpimentel/topip2010/30287.ts
-#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [HD]" tvg-logo="http://p6.vc/AXT" group-title="Canais | Premiere",PREMIERE CLUBES [HD]
-http://cdn33.cc:80/patrickpimentel/topip2010/537.ts
-#EXTINF:-1 tvg-id="BR - Premiere Clubes" tvg-name="PREMIERE CLUBES [SD]" tvg-logo="http://p6.vc/AYA" group-title="Canais | Premiere",PREMIERE CLUBES [SD]
-http://cdn33.cc:80/patrickpimentel/topip2010/544.ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S01]" tvg-logo="http://p6.vc/CUL7" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S01]
-http://cdn33.cc:80/patrickpimentel/topip2010/227598.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S02]" tvg-logo="http://p6.vc/CUL8" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S02]
-http://cdn33.cc:80/patrickpimentel/topip2010/227599.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S03]" tvg-logo="http://p6.vc/CUL9" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S03]
-http://cdn33.cc:80/patrickpimentel/topip2010/227600.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S04]" tvg-logo="http://p6.vc/CUM0" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S04]
-http://cdn33.cc:80/patrickpimentel/topip2010/227601.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S05]" tvg-logo="http://p6.vc/CUM1" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S05]
-http://cdn33.cc:80/patrickpimentel/topip2010/227602.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S06]" tvg-logo="http://p6.vc/CUM2" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S06]
-http://cdn33.cc:80/patrickpimentel/topip2010/227603.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S07]" tvg-logo="http://p6.vc/CUM3" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S07]
-http://cdn33.cc:80/patrickpimentel/topip2010/227604.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S08]" tvg-logo="http://p6.vc/CUM4" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S08]
-http://cdn33.cc:80/patrickpimentel/topip2010/227605.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S09]" tvg-logo="http://p6.vc/CUM5" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S09]
-http://cdn33.cc:80/patrickpimentel/topip2010/227606.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S10]" tvg-logo="http://p6.vc/CUM6" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S10]
-http://cdn33.cc:80/patrickpimentel/topip2010/227607.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S11]" tvg-logo="http://p6.vc/CUM7" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S11]
-http://cdn33.cc:80/patrickpimentel/topip2010/227608.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S12]" tvg-logo="http://p6.vc/CUM8" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S12]
-http://cdn33.cc:80/patrickpimentel/topip2010/227609.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S01]" tvg-logo="http://p6.vc/CUL7" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S01]
-http://cdn33.cc:80/patrickpimentel/topip2010/227598.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S02]" tvg-logo="http://p6.vc/CUL8" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S02]
-http://cdn33.cc:80/patrickpimentel/topip2010/227599.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S03]" tvg-logo="http://p6.vc/CUL9" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S03]
-http://cdn33.cc:80/patrickpimentel/topip2010/227600.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S04]" tvg-logo="http://p6.vc/CUM0" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S04]
-http://cdn33.cc:80/patrickpimentel/topip2010/227601.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S05]" tvg-logo="http://p6.vc/CUM1" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S05]
-http://cdn33.cc:80/patrickpimentel/topip2010/227602.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S06]" tvg-logo="http://p6.vc/CUM2" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S06]
-http://cdn33.cc:80/patrickpimentel/topip2010/227603.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S07]" tvg-logo="http://p6.vc/CUM3" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S07]
-http://cdn33.cc:80/patrickpimentel/topip2010/227604.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S08]" tvg-logo="http://p6.vc/CUM4" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S08]
-http://cdn33.cc:80/patrickpimentel/topip2010/227605.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S09]" tvg-logo="http://p6.vc/CUM5" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S09]
-http://cdn33.cc:80/patrickpimentel/topip2010/227606.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S10]" tvg-logo="http://p6.vc/CUM6" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S10]
-http://cdn33.cc:80/patrickpimentel/topip2010/227607.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S11]" tvg-logo="http://p6.vc/CUM7" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S11]
-http://cdn33.cc:80/patrickpimentel/topip2010/227608.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio [S12]" tvg-logo="http://p6.vc/CUM8" group-title="Canais | Series [24H]",[24H] Dois Homens e Meio [S12]
-http://cdn33.cc:80/patrickpimentel/topip2010/227609.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S01]" tvg-logo="http://p6.vc/CUG7" group-title="Canais | Series [24H]",[24H] Chaves [S01]
-http://cdn33.cc:80/patrickpimentel/topip2010/227545.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S02]" tvg-logo="http://p6.vc/CUG8" group-title="Canais | Series [24H]",[24H] Chaves [S02]
-http://cdn33.cc:80/patrickpimentel/topip2010/227546.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S03]" tvg-logo="http://p6.vc/CUG9" group-title="Canais | Series [24H]",[24H] Chaves [S03]
-http://cdn33.cc:80/patrickpimentel/topip2010/227547.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S04]" tvg-logo="http://p6.vc/CUH0" group-title="Canais | Series [24H]",[24H] Chaves [S04]
-http://cdn33.cc:80/patrickpimentel/topip2010/227548.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S05]" tvg-logo="http://p6.vc/CUH1" group-title="Canais | Series [24H]",[24H] Chaves [S05]
-http://cdn33.cc:80/patrickpimentel/topip2010/227549.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S06]" tvg-logo="http://p6.vc/CUH2" group-title="Canais | Series [24H]",[24H] Chaves [S06]
-http://cdn33.cc:80/patrickpimentel/topip2010/227550.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves [S07]" tvg-logo="http://p6.vc/CUH3" group-title="Canais | Series [24H]",[24H] Chaves [S07]
-http://cdn33.cc:80/patrickpimentel/topip2010/227551.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Mr. Bean" tvg-logo="http://cdn33.cc:80/images/ddbe792ed6f7e2559ebca122404bc7dc.jpg" group-title="Canais | 24 Horas",[24H] Mr. Bean
-http://cdn33.cc:80/ELISIO6854/SZ7343/228507.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Mr. Bean" tvg-logo="http://cdn33.cc:80/images/ddbe792ed6f7e2559ebca122404bc7dc.jpg" group-title="Canais | 24 Horas",[24H] Mr. Bean
-http://cdn33.cc:80/patrickpimentel/topip2010/228507.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S01]" tvg-logo="http://p6.vc/CWE5" group-title="Canais | Series [24H]",[24H] Supernatural [S01]
-http://cdn33.cc:80/patrickpimentel/topip2010/228196.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S01] [L]" tvg-logo="http://p6.vc/CWE6" group-title="Canais | Series [24H]",[24H] Supernatural [S01] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228199.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S02]" tvg-logo="http://p6.vc/CWE7" group-title="Canais | Series [24H]",[24H] Supernatural [S02]
-http://cdn33.cc:80/patrickpimentel/topip2010/228202.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S02] [L]" tvg-logo="http://p6.vc/CWE8" group-title="Canais | Series [24H]",[24H] Supernatural [S02] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228205.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S03]" tvg-logo="http://p6.vc/CWE9" group-title="Canais | Series [24H]",[24H] Supernatural [S03]
-http://cdn33.cc:80/patrickpimentel/topip2010/228208.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S03] [L]" tvg-logo="http://p6.vc/CWF0" group-title="Canais | Series [24H]",[24H] Supernatural [S03] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228211.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S04]" tvg-logo="http://p6.vc/CWF1" group-title="Canais | Series [24H]",[24H] Supernatural [S04]
-http://cdn33.cc:80/patrickpimentel/topip2010/228214.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S04] [L]" tvg-logo="http://p6.vc/CWF2" group-title="Canais | Series [24H]",[24H] Supernatural [S04] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228217.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S05]" tvg-logo="http://p6.vc/CWF3" group-title="Canais | Series [24H]",[24H] Supernatural [S05]
-http://cdn33.cc:80/patrickpimentel/topip2010/228220.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S05] [L]" tvg-logo="http://p6.vc/CWF4" group-title="Canais | Series [24H]",[24H] Supernatural [S05] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228223.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S06]" tvg-logo="http://p6.vc/CWF5" group-title="Canais | Series [24H]",[24H] Supernatural [S06]
-http://cdn33.cc:80/patrickpimentel/topip2010/228226.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S06] [L]" tvg-logo="http://p6.vc/CWF6" group-title="Canais | Series [24H]",[24H] Supernatural [S06] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228229.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S07]" tvg-logo="http://p6.vc/CWF7" group-title="Canais | Series [24H]",[24H] Supernatural [S07]
-http://cdn33.cc:80/patrickpimentel/topip2010/228232.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S07] [L]" tvg-logo="http://p6.vc/CWF8" group-title="Canais | Series [24H]",[24H] Supernatural [S07] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228235.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S08]" tvg-logo="http://p6.vc/CWF9" group-title="Canais | Series [24H]",[24H] Supernatural [S08]
-http://cdn33.cc:80/patrickpimentel/topip2010/228238.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S08] [L]" tvg-logo="http://p6.vc/CWG0" group-title="Canais | Series [24H]",[24H] Supernatural [S08] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228241.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S09]" tvg-logo="http://p6.vc/CWG1" group-title="Canais | Series [24H]",[24H] Supernatural [S09]
-http://cdn33.cc:80/patrickpimentel/topip2010/228244.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S09] [L]" tvg-logo="http://p6.vc/CWG2" group-title="Canais | Series [24H]",[24H] Supernatural [S09] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228247.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S10]" tvg-logo="http://p6.vc/CWG3" group-title="Canais | Series [24H]",[24H] Supernatural [S10]
-http://cdn33.cc:80/patrickpimentel/topip2010/228250.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S10] [L]" tvg-logo="http://p6.vc/CWG4" group-title="Canais | Series [24H]",[24H] Supernatural [S10] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228253.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S11]" tvg-logo="http://p6.vc/CWG5" group-title="Canais | Series [24H]",[24H] Supernatural [S11]
-http://cdn33.cc:80/patrickpimentel/topip2010/228256.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S11] [L]" tvg-logo="http://p6.vc/CWG6" group-title="Canais | Series [24H]",[24H] Supernatural [S11] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228259.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S12]" tvg-logo="http://p6.vc/CWG7" group-title="Canais | Series [24H]",[24H] Supernatural [S12]
-http://cdn33.cc:80/patrickpimentel/topip2010/228262.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S12] [L]" tvg-logo="http://p6.vc/CWG8" group-title="Canais | Series [24H]",[24H] Supernatural [S12] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228265.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S13]" tvg-logo="http://p6.vc/CWG9" group-title="Canais | Series [24H]",[24H] Supernatural [S13]
-http://cdn33.cc:80/patrickpimentel/topip2010/228268.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S13] [L]" tvg-logo="http://p6.vc/CWH0" group-title="Canais | Series [24H]",[24H] Supernatural [S13] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228271.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S14]" tvg-logo="http://p6.vc/CWH1" group-title="Canais | Series [24H]",[24H] Supernatural [S14]
-http://cdn33.cc:80/patrickpimentel/topip2010/228274.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S14] [L]" tvg-logo="http://p6.vc/CWH2" group-title="Canais | Series [24H]",[24H] Supernatural [S14] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228277.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S15]" tvg-logo="http://p6.vc/CWH3" group-title="Canais | Series [24H]",[24H] Supernatural [S15]
-http://cdn33.cc:80/patrickpimentel/topip2010/228280.ts
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Supernatural [S15] [L]" tvg-logo="http://p6.vc/CWH4" group-title="Canais | Series [24H]",[24H] Supernatural [S15] [L]
-http://cdn33.cc:80/patrickpimentel/topip2010/228283.ts
-
+http://cdn33.cc:80/ELISIO6854/SZ7343/233622.ts
